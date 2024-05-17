@@ -1,0 +1,3604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d30" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d29" for="node" attr.name="User_label" attr.type="string"/>
+<key id="d28" for="node" attr.name="verified" attr.type="boolean"/>
+<key id="d27" for="node" attr.name="statuses_count" attr.type="long"/>
+<key id="d26" for="node" attr.name="screen_name" attr.type="string"/>
+<key id="d25" for="node" attr.name="possibly_sensitive" attr.type="boolean"/>
+<key id="d24" for="node" attr.name="normal_followers_count" attr.type="long"/>
+<key id="d23" for="node" attr.name="name" attr.type="string"/>
+<key id="d22" for="node" attr.name="media_count" attr.type="long"/>
+<key id="d21" for="node" attr.name="location" attr.type="string"/>
+<key id="d20" for="node" attr.name="listed_count" attr.type="long"/>
+<key id="d19" for="node" attr.name="is_blue_verified" attr.type="boolean"/>
+<key id="d18" for="node" attr.name="friends_count" attr.type="long"/>
+<key id="d17" for="node" attr.name="followers_count" attr.type="long"/>
+<key id="d16" for="node" attr.name="favourites_count" attr.type="long"/>
+<key id="d15" for="node" attr.name="description" attr.type="string"/>
+<key id="d14" for="node" attr.name="Tweet_label" attr.type="string"/>
+<key id="d13" for="node" attr.name="views_count" attr.type="long"/>
+<key id="d12" for="node" attr.name="retweet_count" attr.type="long"/>
+<key id="d11" for="node" attr.name="reply_count" attr.type="long"/>
+<key id="d10" for="node" attr.name="ranked_classification" attr.type="string"/>
+<key id="d9" for="node" attr.name="quote_count" attr.type="long"/>
+<key id="d8" for="node" attr.name="lang" attr.type="string"/>
+<key id="d7" for="node" attr.name="has_birdwatch_notes" attr.type="boolean"/>
+<key id="d6" for="node" attr.name="full_text" attr.type="string"/>
+<key id="d5" for="node" attr.name="favorite_count" attr.type="long"/>
+<key id="d4" for="node" attr.name="created_at" attr.type="string"/>
+<key id="d3" for="node" attr.name="Party_label" attr.type="string"/>
+<key id="d2" for="node" attr.name="node_type" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="ident" attr.type="string"/>
+<graph edgedefault="directed"><node id="464658">
+  <data key="d0">PS</data>
+  <data key="d1">PS</data>
+  <data key="d2">Party</data>
+  <data key="d3">PS</data>
+</node>
+<node id="171995">
+  <data key="d4">2024-02-26T08:21:39+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@BenAchourMalik2 Cette phrase est prononcée car les militants pro Hamas et terrorisme veulent l’éradication d’Israel comme état. Cette phrase est jugée comme antisémite en Allemagne 🇩🇪.</data>
+  <data key="d7">False</data>
+  <data key="d0">1762030150177165813</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">22</data>
+  <data key="d1">1762030150177165813</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1762030150177165813</data>
+</node>
+<node id="342960">
+  <data key="d4">2019-12-09T15:03:05+00:00</data>
+  <data key="d15">Député fédéral - La Chambre des représentants- Belgique</data>
+  <data key="d16">1908</data>
+  <data key="d17">2816</data>
+  <data key="d18">992</data>
+  <data key="d0">1204053801642143747</data>
+  <data key="d19">False</data>
+  <data key="d20">30</data>
+  <data key="d21">Verviers, Belgium</data>
+  <data key="d22">196</data>
+  <data key="d23">Ben Achour Malik</data>
+  <data key="d24">2816</data>
+  <data key="d25">False</data>
+  <data key="d26">BenAchourMalik2</data>
+  <data key="d27">2250</data>
+  <data key="d28">False</data>
+  <data key="d1">1204053801642143747</data>
+  <data key="d2">User</data>
+  <data key="d29">1204053801642143747</data>
+</node>
+<node id="253243">
+  <data key="d4">2024-03-27T18:43:43+00:00</data>
+  <data key="d5">7</data>
+  <data key="d6">@BenAchourMalik2 Cher Malik, tu as raison, cela n’a pas commencé le 7/10. Cela fait depuis 2005 et le départ d’Israel de Gaza que pleuvent tous les jours les missiles du Hamas sur les villes du sud (on remerciera le dôme de fer). Le 07/10 fut la « goûte » de sang de trop. Maintenant, c’est stop.</data>
+  <data key="d7">False</data>
+  <data key="d0">1773058334892913105</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">52</data>
+  <data key="d1">1773058334892913105</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1773058334892913105</data>
+</node>
+<node id="54897">
+  <data key="d4">2023-11-15T10:15:29+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@LaChambreBE @elianetillieux I absolutely agree with #NotATarget.I am shocked that the rapes and atrocities of Oct. 7th were not condemned by women. It’s not Jews against Muslims, it’s Israel against terror.#HamasisISIS #FreePalestine #FreeGazaFromHamas #EducateYourselfhttps://t.co/hikqLvvSeV</data>
+  <data key="d7">False</data>
+  <data key="d0">1724732848299553243</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">6</data>
+  <data key="d1">1724732848299553243</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724732848299553243</data>
+</node>
+<node id="353799">
+  <data key="d4">2012-06-07T13:38:57+00:00</data>
+  <data key="d15">🇧🇪 Présidente de la Chambre des Représentants @LaChambreBE / De Kamervoorzitster @DeKamerBE 📍Conseillère communale / Gemeenteraads @PSNamur</data>
+  <data key="d16">2394</data>
+  <data key="d17">7384</data>
+  <data key="d18">1640</data>
+  <data key="d0">601882135</data>
+  <data key="d19">False</data>
+  <data key="d20">133</data>
+  <data key="d21">Namur</data>
+  <data key="d22">432</data>
+  <data key="d23">Eliane Tillieux</data>
+  <data key="d24">7384</data>
+  <data key="d25">False</data>
+  <data key="d26">elianetillieux</data>
+  <data key="d27">2668</data>
+  <data key="d28">False</data>
+  <data key="d1">601882135</data>
+  <data key="d2">User</data>
+  <data key="d29">601882135</data>
+</node>
+<node id="54914">
+  <data key="d4">2023-11-14T12:37:32+00:00</data>
+  <data key="d5">62</data>
+  <data key="d6">Bonjour Mme @elianetillieux L’Assemblée Nationale visionne ce jour le film réalisé par Israel sur les pogroms du 07/10.Il semble que pareille proposition vous a été faite il y a une semaine, sans réponse.Va-t’on assister aux mêmes tergiversations que sur le Hamas ?</data>
+  <data key="d7">False</data>
+  <data key="d0">1724406207568314501</data>
+  <data key="d8">fr</data>
+  <data key="d9">3</data>
+  <data key="d11">7</data>
+  <data key="d12">22</data>
+  <data key="d13">4014</data>
+  <data key="d1">1724406207568314501</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724406207568314501</data>
+</node>
+<node id="54941">
+  <data key="d4">2023-11-15T10:16:43+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@KatalinNovak_HU @elianetillieux @stephaniedhose And not a word about the brutal mass rape, slaughter, and kidnapping of innocent women in Israel. You are trying to ignore but we will not forget your silence!!!! Shame on you!!!#MeToo #MeToo_UNless_UR_a_Jew #NeverAgainIsNow #HamasisISIS https://t.co/kdszrZNLS1</data>
+  <data key="d7">False</data>
+  <data key="d0">1724733157709128057</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">2</data>
+  <data key="d13">27</data>
+  <data key="d1">1724733157709128057</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724733157709128057</data>
+</node>
+<node id="54959">
+  <data key="d4">2023-11-15T10:15:35+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@KatalinNovak_HU @elianetillieux @stephaniedhose I absolutely agree with #NotATarget.I am shocked that the rapes and atrocities of Oct. 7th were not condemned by women. It’s not Jews against Muslims, it’s Israel against terror.#HamasisISIS #FreePalestine #FreeGazaFromHamas #EducateYourselfhttps://t.co/hikqLvvSeV</data>
+  <data key="d7">False</data>
+  <data key="d0">1724732871816995053</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">4</data>
+  <data key="d1">1724732871816995053</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724732871816995053</data>
+</node>
+<node id="55017">
+  <data key="d4">2023-11-15T10:15:39+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@elianetillieux @vincent_v_p I absolutely agree with #NotATarget.I am shocked that the rapes and atrocities of Oct. 7th were not condemned by women. It’s not Jews against Muslims, it’s Israel against terror.#HamasisISIS #FreePalestine #FreeGazaFromHamas #EducateYourselfhttps://t.co/hikqLvvSeV</data>
+  <data key="d7">False</data>
+  <data key="d0">1724732890485838127</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">6</data>
+  <data key="d1">1724732890485838127</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724732890485838127</data>
+</node>
+<node id="55038">
+  <data key="d4">2023-11-15T18:01:05+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@crimeaplatform @elianetillieux What about Israeli children who have been kidnapped by Hamas on Oct 7!💔 Don't they deserve to live peacefully? 40 kids have been held hostage in Gaza💔, doesn't that do you anything? Do you know one of the kidnapped woman GAVE BIRTH in Hamas captivity?😱💔 https://t.co/BEeRS3d3hU</data>
+  <data key="d7">False</data>
+  <data key="d0">1724850020661301682</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">18</data>
+  <data key="d1">1724850020661301682</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724850020661301682</data>
+</node>
+<node id="55042">
+  <data key="d4">2023-11-16T10:53:05+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@crimeaplatform @elianetillieux Who commits war crimes? You refuse to show others videos that Hamas members took by themselves!They celebrated rape, murder, beheading, burning entire families in their homes and kidnapping Jews, civilians!! Not soldiers  Stand with Israel!https://t.co/LHWvi31wNw</data>
+  <data key="d7">False</data>
+  <data key="d0">1725104697776689197</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">37</data>
+  <data key="d1">1725104697776689197</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1725104697776689197</data>
+</node>
+<node id="55045">
+  <data key="d4">2023-11-15T10:15:50+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@crimeaplatform @elianetillieux I absolutely agree with #NotATarget.I am shocked that the rapes and atrocities of Oct. 7th were not condemned by women. It’s not Jews against Muslims, it’s Israel against terror.#HamasisISIS #FreePalestine #FreeGazaFromHamas #EducateYourselfhttps://t.co/hikqLvvSeV</data>
+  <data key="d7">False</data>
+  <data key="d0">1724732934890860957</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1</data>
+  <data key="d1">1724732934890860957</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724732934890860957</data>
+</node>
+<node id="55068">
+  <data key="d4">2023-11-15T10:15:57+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@elianetillieux @F_Armengol I absolutely agree with #NotATarget.I am shocked that the rapes and atrocities of Oct. 7th were not condemned by women. It’s not Jews against Muslims, it’s Israel against terror.#HamasisISIS #FreePalestine #FreeGazaFromHamas #EducateYourselfhttps://t.co/hikqLvvSeV</data>
+  <data key="d7">False</data>
+  <data key="d0">1724732963466694821</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d1">1724732963466694821</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1724732963466694821</data>
+</node>
+<node id="464659">
+  <data key="d0">cd&amp;v</data>
+  <data key="d1">cd&amp;v</data>
+  <data key="d2">Party</data>
+  <data key="d3">cd&amp;v</data>
+</node>
+<node id="88689">
+  <data key="d4">2024-02-14T12:30:52+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@ElsVanHoofcdenv Ik ben tot de conclusie gekomen dat het bij  onze politiekers nog niet doorgedrongen is wat er op 7 October gebeurt is. Voorstellen of eisen om een staak het vuur en een duurzame oplossing zal er niet komen zolang Hamas aan de macht zal blijven en Israel van de kaart wil.</data>
+  <data key="d7">False</data>
+  <data key="d0">1757744214845038677</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">4</data>
+  <data key="d1">1757744214845038677</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757744214845038677</data>
+</node>
+<node id="342906">
+  <data key="d4">2011-08-31T07:41:20+00:00</data>
+  <data key="d15">Voorzitter Commissie Buitenlandse Zaken, Kamerlid cd&amp;v, vrouwenrechtenactiviste en gemeenteraadslid Leuven</data>
+  <data key="d16">3438</data>
+  <data key="d17">3502</data>
+  <data key="d18">1523</data>
+  <data key="d0">365329481</data>
+  <data key="d19">False</data>
+  <data key="d20">48</data>
+  <data key="d21">Leuven</data>
+  <data key="d22">263</data>
+  <data key="d23">Els Van Hoof</data>
+  <data key="d24">3502</data>
+  <data key="d25">False</data>
+  <data key="d26">ElsVanHoofcdenv</data>
+  <data key="d27">2232</data>
+  <data key="d28">False</data>
+  <data key="d1">365329481</data>
+  <data key="d2">User</data>
+  <data key="d29">365329481</data>
+</node>
+<node id="210843">
+  <data key="d4">2024-03-11T20:41:23+00:00</data>
+  <data key="d5">7</data>
+  <data key="d6">@ElsVanHoofcdenv @cdenv Is dit het standpunt van @cdenv?#notmyBelgium #NotInMyName #AmIsraelChai #HamasIsISIS #bringthemallhome</data>
+  <data key="d7">False</data>
+  <data key="d0">1767289739873272256</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">67</data>
+  <data key="d1">1767289739873272256</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1767289739873272256</data>
+</node>
+<node id="57087">
+  <data key="d4">2024-01-24T17:21:25+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">Hamas-terreur rechtvaardigt geen schendingen van internationaal recht. We veroordelen disproportionele reactie van #Israel die duurzame vrede geen stap dichter brengt. Volledig respect voor internationaal humanitair recht &amp;amp; ongehinderde humanitaire hulp zijn cruciaal (3/5)</data>
+  <data key="d7">False</data>
+  <data key="d0">1750207187580793330</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">86</data>
+  <data key="d1">1750207187580793330</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750207187580793330</data>
+</node>
+<node id="8010">
+  <data key="d4">2023-11-24T17:03:45+00:00</data>
+  <data key="d5">10</data>
+  <data key="d6">@IsraeliPM We all are convinced that you mr. Netanyahu, as a corrupt politician, are the reason that the majority in our universe is convinced that you as a person gave success to Hamas and are responsible for the terrible massacre of your own children, men and women. We will not forget…</data>
+  <data key="d7">False</data>
+  <data key="d0">1728097082139881871</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d11">1</data>
+  <data key="d12">4</data>
+  <data key="d13">326</data>
+  <data key="d1">1728097082139881871</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728097082139881871</data>
+</node>
+<node id="345259">
+  <data key="d4">2013-08-22T09:34:01+00:00</data>
+  <data key="d15">Federaal Volksvertegenwoordiger &amp; Eregouverneur van de provincie Oost-Vlaanderen. Een hart voor muziek(festivals). Bruggenbouwer.</data>
+  <data key="d16">1641</data>
+  <data key="d17">2559</data>
+  <data key="d18">501</data>
+  <data key="d0">1690562936</data>
+  <data key="d19">False</data>
+  <data key="d20">45</data>
+  <data key="d21">Gent, België</data>
+  <data key="d22">478</data>
+  <data key="d23">Jan Briers</data>
+  <data key="d24">2559</data>
+  <data key="d25">False</data>
+  <data key="d26">JanBriersGouv</data>
+  <data key="d27">2609</data>
+  <data key="d28">False</data>
+  <data key="d1">1690562936</data>
+  <data key="d2">User</data>
+  <data key="d29">1690562936</data>
+</node>
+<node id="464660">
+  <data key="d0">Open Vld</data>
+  <data key="d1">Open Vld</data>
+  <data key="d2">Party</data>
+  <data key="d3">Open Vld</data>
+</node>
+<node id="2666">
+  <data key="d4">2023-11-26T13:09:34+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@FranckenTheo @egbertlachaert Israel bemiddelt liever met haar evenknie Hamas dan met landen die ervaring hebben met bemiddeling en consensus. En als het Israel niet lukt, dan schakelen ze de democratische gidsland  Qatar in. Niet waar Theo?</data>
+  <data key="d7">False</data>
+  <data key="d0">1728762922745094177</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">240</data>
+  <data key="d1">1728762922745094177</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728762922745094177</data>
+</node>
+<node id="342471">
+  <data key="d4">2009-06-23T15:19:23+00:00</data>
+  <data key="d15">Liberaal 💙 - Federaal Parlementslid</data>
+  <data key="d16">22738</data>
+  <data key="d17">22046</data>
+  <data key="d18">1644</data>
+  <data key="d0">50003590</data>
+  <data key="d19">True</data>
+  <data key="d20">230</data>
+  <data key="d21"></data>
+  <data key="d22">585</data>
+  <data key="d23">Egbert Lachaert</data>
+  <data key="d24">22046</data>
+  <data key="d25">False</data>
+  <data key="d26">egbertlachaert</data>
+  <data key="d27">12100</data>
+  <data key="d28">False</data>
+  <data key="d1">50003590</data>
+  <data key="d2">User</data>
+  <data key="d29">50003590</data>
+</node>
+<node id="39009">
+  <data key="d4">2023-12-08T17:18:37+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@egbertlachaert Zwijg toch man, het is Hamas die voor de dode palestijnen zorgt en niet Israel. Fuckoff met uw stemmingmakerij en geslijm voor arabische stemmen. Vuile verrader</data>
+  <data key="d7">False</data>
+  <data key="d0">1733174251803324524</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">64</data>
+  <data key="d1">1733174251803324524</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1733174251803324524</data>
+</node>
+<node id="46326">
+  <data key="d4">2024-01-11T16:13:25+00:00</data>
+  <data key="d5">16</data>
+  <data key="d6">@egbertlachaert Je moet wel degelijk kant kiezen, die van de slachtoffers, van degenen die onderdrukt worden, van het internationaal recht. Of Hamas, of Israel, is een valse tegenstelling</data>
+  <data key="d7">False</data>
+  <data key="d0">1745479031749857531</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">447</data>
+  <data key="d1">1745479031749857531</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745479031749857531</data>
+</node>
+<node id="46358">
+  <data key="d4">2024-01-11T17:07:38+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@egbertlachaert Hamas moet eruit. Pas dan kunnen constructieve gesprekken gevoerd worden en onderhandeld tussen Israel en Palestina. Overal waar extreemradicaal regeert geraakt men nergens vooruit.</data>
+  <data key="d7">False</data>
+  <data key="d0">1745492676596707536</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">83</data>
+  <data key="d1">1745492676596707536</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745492676596707536</data>
+</node>
+<node id="117435">
+  <data key="d4">2024-02-09T06:18:23+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@egbertlachaert Wat wel waar is: België zou zich beter achter Israel scharen in hun strijd tegen het internationaal terrorisme in plaats van terreurgroepen als Hamas te financieren… Gelukkig hebben we Israel nog om onze strijd te voeren…</data>
+  <data key="d7">False</data>
+  <data key="d0">1755838537415479312</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">24</data>
+  <data key="d1">1755838537415479312</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1755838537415479312</data>
+</node>
+<node id="121749">
+  <data key="d4">2024-02-10T16:47:14+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@egbertlachaert waar was uw veroordeling op 8 oktober? If you ask Israel not to defend itself in the aftermath of Hamas’ attack, the only alternative you’re suggesting is surrendering to a heinous regime that has promised to repeat October 7.</data>
+  <data key="d7">False</data>
+  <data key="d0">1756359178304569718</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">52</data>
+  <data key="d1">1756359178304569718</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756359178304569718</data>
+</node>
+<node id="121750">
+  <data key="d4">2024-02-10T16:42:20+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@egbertlachaert Mocht Hamas zich nu eens overgeven ipv Israelis te vermoorden en daarna de eigen bevolking te gijzelen en als levend schild te gebruiken ? 🤔</data>
+  <data key="d7">False</data>
+  <data key="d0">1756357944306802782</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">49</data>
+  <data key="d1">1756357944306802782</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756357944306802782</data>
+</node>
+<node id="121801">
+  <data key="d4">2024-02-11T09:35:29+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@egbertlachaert Ah ja. En de leiding van Hamas die jonge Israelische vrouwen als buit ziet, mensen in hun kibboetz vermoordt, iedere dag raketten afschiet op burger doelen, die horen niet voor het Internationaal Strafhof zeker? Wat voor éénzijdige moraal is dit?</data>
+  <data key="d7">False</data>
+  <data key="d0">1756612912070721824</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">26</data>
+  <data key="d1">1756612912070721824</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756612912070721824</data>
+</node>
+<node id="230664">
+  <data key="d4">2024-03-18T20:44:39+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@egbertlachaert @MichaelFreilich Enkel en alleen de kloten hebben om Israel te vergelijken met Iran is  misselijk van te worden. In uw luie zetel Israel veroordelen omdat zij zich verdedigen tegen een terreur Staat in Gaza is een schande. Dat er onschuldige slachtoffers vallen hebt u aan Hamas te danken.</data>
+  <data key="d7">False</data>
+  <data key="d0">1769827278727356835</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1769827278727356835</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1769827278727356835</data>
+</node>
+<node id="270420">
+  <data key="d4">2024-04-02T16:10:02+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@egbertlachaert I think Israel is tired of being nice...This is war,and anyway Israel won't succeed to be loved...Hamas is playing with the whole world,and with Israel and its hostages.I think it is enough!Israel should crash its enemies...</data>
+  <data key="d7">False</data>
+  <data key="d0">1775193986916880840</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1775193986916880840</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1775193986916880840</data>
+</node>
+<node id="338638">
+  <data key="d4">2024-05-02T10:57:08+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@egbertlachaert https://t.co/PIU2cdy8nH Amerikaanse senaat 2009! Israel creëerde Hamas!</data>
+  <data key="d7">False</data>
+  <data key="d0">1785986878602105155</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">86</data>
+  <data key="d1">1785986878602105155</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1785986878602105155</data>
+</node>
+<node id="29761">
+  <data key="d4">2024-01-14T21:23:01+00:00</data>
+  <data key="d5">13</data>
+  <data key="d6">@Bouboutyassine Met alle respect voor je zienswijze, maar het is toch niet helemaal hetzelfde.Rusland voel Oekraïne binnen, Oekraïne viel Rusland niet binnen en had daar ook helemaal geen intentie toe. De oorlog daar is eenzijdig door één partij gestart.Hamas probeert wel degelijk Israel van…</data>
+  <data key="d7">False</data>
+  <data key="d0">1746644111292056057</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">1055</data>
+  <data key="d1">1746644111292056057</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1746644111292056057</data>
+</node>
+<node id="464661">
+  <data key="d0">Vooruit</data>
+  <data key="d1">Vooruit</data>
+  <data key="d2">Party</data>
+  <data key="d3">Vooruit</data>
+</node>
+<node id="37506">
+  <data key="d4">2024-01-19T07:43:00+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@JorisVDBroucke En hoe moet Israel verhinderen dat Hamas deze belofte gaat waar maken? Heeft Vooruit daar ook al eens over nagedacht? https://t.co/aCDFEj3YcC</data>
+  <data key="d7">False</data>
+  <data key="d0">1748249686526288166</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">70</data>
+  <data key="d1">1748249686526288166</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748249686526288166</data>
+</node>
+<node id="352581">
+  <data key="d4">2012-04-17T11:02:11+00:00</data>
+  <data key="d15">Fractieleider in de Kamer, gemeenteraadslid in Gent. VOORUIT</data>
+  <data key="d16">11436</data>
+  <data key="d17">6345</data>
+  <data key="d18">1333</data>
+  <data key="d0">555876490</data>
+  <data key="d19">False</data>
+  <data key="d20">87</data>
+  <data key="d21">9040 Gent</data>
+  <data key="d22">1018</data>
+  <data key="d23">Joris Vandenbroucke</data>
+  <data key="d24">6345</data>
+  <data key="d25">False</data>
+  <data key="d26">JorisVDBroucke</data>
+  <data key="d27">12921</data>
+  <data key="d28">False</data>
+  <data key="d1">555876490</data>
+  <data key="d2">User</data>
+  <data key="d29">555876490</data>
+</node>
+<node id="37508">
+  <data key="d4">2024-01-19T07:51:17+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@JorisVDBroucke U beseft dat Hamas zich verschuilt achter en tussen burgers? Dat het voor IDF bijzonder moeilijk is om een Hamas terrorist van een burger te onderscheiden, en dat een seconde aarzeling leven of dood betekent? Hoe moet Israel reageren? Lief vragen of Hamas dat nooit meer wil doen?</data>
+  <data key="d7">False</data>
+  <data key="d0">1748251768230654209</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">46</data>
+  <data key="d1">1748251768230654209</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748251768230654209</data>
+</node>
+<node id="37532">
+  <data key="d4">2024-01-18T17:59:26+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@JorisVDBroucke Israel heeft de plicht zijn inwoners te beschermen, dit kan alleen door volledige ontmanteling vaan Hamas.Het IDF doet enorme inspanningen om burgerslachtoffers te vermeiden. De ratio burgerslachtoffers / combattants &amp;lt;2 in de strijd tegen Hamas, waar bij  het gemiddelde van</data>
+  <data key="d7">False</data>
+  <data key="d0">1748042427934314771</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">16</data>
+  <data key="d1">1748042427934314771</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748042427934314771</data>
+</node>
+<node id="218509">
+  <data key="d4">2024-03-13T08:42:08+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@JorisVDBroucke Dit is wat Hamas wou. De Palestijnse bevolking steunt hamas. Op 7 oktober stonden die nog allemaal te juichen toen de ontvoerders terugkwamen met hun slachtoffers uit Israel.</data>
+  <data key="d7">False</data>
+  <data key="d0">1767833513309384966</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">29</data>
+  <data key="d1">1767833513309384966</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1767833513309384966</data>
+</node>
+<node id="218526">
+  <data key="d4">2024-03-13T07:31:47+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@JorisVDBroucke Puur propaganda oorlog van Hamas tegen Israel. Er is bijna geen infrastructuur over in Gaza.  Hoe kan het Unwra-Hamas over juiste gegevens beschikken? Ze weten niet eens hoeveel gekidnapten nog leven en waar die zich bevinden,</data>
+  <data key="d7">False</data>
+  <data key="d0">1767815807440945331</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">54</data>
+  <data key="d1">1767815807440945331</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1767815807440945331</data>
+</node>
+<node id="464662">
+  <data key="d0">Les Engagés</data>
+  <data key="d1">Les Engagés</data>
+  <data key="d2">Party</data>
+  <data key="d3">Les Engagés</data>
+</node>
+<node id="21337">
+  <data key="d4">2023-10-08T05:43:56+00:00</data>
+  <data key="d5">6</data>
+  <data key="d6">@prevotmaxime La différence entre les 2 camps est claire, tenter de les faire équivaloir n'est pas maladroit mais honteux, surtout aujourd'hui.Hamas tuerait tous les juifs s'il en avait le pouvoir.Israel a ce pouvoir et ne l'exerce pas.Hamas tue des civils intentionellement, Israel non.</data>
+  <data key="d7">False</data>
+  <data key="d0">1710893771926143236</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">3</data>
+  <data key="d12">2</data>
+  <data key="d13">686</data>
+  <data key="d1">1710893771926143236</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1710893771926143236</data>
+</node>
+<node id="350855">
+  <data key="d4">2013-04-16T14:02:37+00:00</data>
+  <data key="d15">Président « Les Engagés », Député-Bourgmestre de @VilledeNamur</data>
+  <data key="d16">219</data>
+  <data key="d17">11253</data>
+  <data key="d18">943</data>
+  <data key="d0">1356960020</data>
+  <data key="d19">True</data>
+  <data key="d20">175</data>
+  <data key="d21">Namur, Belgium</data>
+  <data key="d22">73</data>
+  <data key="d23">Maxime PREVOT</data>
+  <data key="d24">11253</data>
+  <data key="d25">False</data>
+  <data key="d26">prevotmaxime</data>
+  <data key="d27">642</data>
+  <data key="d28">False</data>
+  <data key="d1">1356960020</data>
+  <data key="d2">User</data>
+  <data key="d29">1356960020</data>
+</node>
+<node id="21353">
+  <data key="d4">2023-10-08T07:53:22+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@prevotmaxime Encore un petit effort et vous y êtes presque car Israël n’est pas dans l’escalade. Dites simplement qu’Israel a le droit de se défendre face à ces attaques. Quant à une « solution durable » avec le Hamas, vous rêvez tout éveillé.</data>
+  <data key="d7">False</data>
+  <data key="d0">1710926344891019718</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">183</data>
+  <data key="d1">1710926344891019718</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1710926344891019718</data>
+</node>
+<node id="21420">
+  <data key="d4">2023-10-07T20:57:31+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@prevotmaxime Le Hamas a ATTAQUÉ les civils Israéliens aujourd’hui.C’est pas une histoire de « camp ».Israel a le droit légitime et le devoir de défendre sa population. Vous ne le mentionnez pas.Auriez vous dit la même chose en parlant de « camps » suite aux attentats de Zaventem par ex?</data>
+  <data key="d7">False</data>
+  <data key="d0">1710761293664096547</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">220</data>
+  <data key="d1">1710761293664096547</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1710761293664096547</data>
+</node>
+<node id="464663">
+  <data key="d0">N-VA</data>
+  <data key="d1">N-VA</data>
+  <data key="d2">Party</data>
+  <data key="d3">N-VA</data>
+</node>
+<node id="75361">
+  <data key="d4">2024-01-30T09:48:36+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@MichaelFreilich @fmeeus1 Please explain:Why transferred US $70Mn to Hamas in Sept?How could Hamas pass most controlled border in world at 15 spots, remain for hours, return with hostages?Why did Apache helicopters shoot on Israeli at festival?How were rhe Kibboets houses destroyed by heavy arms?</data>
+  <data key="d7">False</data>
+  <data key="d0">1752267558772699189</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">10</data>
+  <data key="d1">1752267558772699189</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1752267558772699189</data>
+</node>
+<node id="341115">
+  <data key="d4">2015-11-21T22:31:32+00:00</data>
+  <data key="d15">Member of Parliament / Kamerlid voor N-VA gespecialiseerd in #cyberveiligheid &amp; #digitalisering. Volg in de Kamer dossiers #telecom #bpost en #antisemitisme</data>
+  <data key="d16">6253</data>
+  <data key="d17">6946</data>
+  <data key="d18">863</data>
+  <data key="d0">4245311650</data>
+  <data key="d19">True</data>
+  <data key="d20">62</data>
+  <data key="d21">Antwerp, Belgium</data>
+  <data key="d22">1154</data>
+  <data key="d23">Michael Freilich</data>
+  <data key="d24">6946</data>
+  <data key="d25">False</data>
+  <data key="d26">MichaelFreilich</data>
+  <data key="d27">4791</data>
+  <data key="d28">False</data>
+  <data key="d1">4245311650</data>
+  <data key="d2">User</data>
+  <data key="d29">4245311650</data>
+</node>
+<node id="75369">
+  <data key="d4">2024-01-29T06:38:56+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@MichaelFreilich De enigste terroristen in gans dit verhaal zijn de Zionisten, kolonisten en de illegale terroristische staat Israel sinds 1948!!! De aanvallen van Hamas gebeurde op illegaal bezet Palestijns grondgebied!! Stop met het slachtoffer uit te hangen! 🤦🏻‍♂️🤦🏻‍♂️</data>
+  <data key="d7">False</data>
+  <data key="d0">1751857441598271797</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">26</data>
+  <data key="d1">1751857441598271797</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1751857441598271797</data>
+</node>
+<node id="114702">
+  <data key="d4">2024-02-09T07:05:34+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@MichaelFreilich als je ziet hoe de politie zich gedraagt tijdens een pro-Hamas of pro-Israel betoging, zal er niet veel veranderen door dit nieuwe regeltje - politie in UK trekt al veel langer de kaart van al die “nieuw”-komers</data>
+  <data key="d7">False</data>
+  <data key="d0">1755850408457556367</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">53</data>
+  <data key="d1">1755850408457556367</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1755850408457556367</data>
+</node>
+<node id="139464">
+  <data key="d4">2024-02-13T22:30:58+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@JuedischeOnline @MichaelFreilich @MichaelFreilich goed dat de Palestijnen en Hamas ook wat lobbyen in Belgie en niet alleen Israeliers</data>
+  <data key="d7">False</data>
+  <data key="d0">1757532847223554428</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">7</data>
+  <data key="d1">1757532847223554428</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757532847223554428</data>
+</node>
+<node id="162803">
+  <data key="d4">2024-02-22T21:19:54+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@MichaelFreilich Dat zijn een hoop leugens in 1 tweet zeg, indrukwekkendThe IDF and US intelligence estimate Israel killed 5,000-9,000 Hamas combatants as of 21 January 2024.[14]https://t.co/fozfIDSI0n</data>
+  <data key="d7">False</data>
+  <data key="d0">1760776450594980056</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">12</data>
+  <data key="d1">1760776450594980056</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1760776450594980056</data>
+</node>
+<node id="167420">
+  <data key="d4">2024-02-23T07:54:35+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@MichaelFreilich Ik betreur wat het Joodse volk gedurende eeuwen heeft moeten  ondergaan. De Holocaust was onmenselijk verschrikkelijk. Wat op 7 october door Hamas werd gedaan is onverdedigbaar.De jarenlange onderdrukking van de Palestijnen door de Zionistische Israelische overheid is dat óók.</data>
+  <data key="d7">False</data>
+  <data key="d0">1760936175030636978</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">58</data>
+  <data key="d1">1760936175030636978</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1760936175030636978</data>
+</node>
+<node id="189781">
+  <data key="d4">2024-03-03T09:09:16+00:00</data>
+  <data key="d5">7</data>
+  <data key="d6">@MichaelFreilich Wat Israel doet is allesbehalve strategisch. Strategie is denken op lange termijn. Zelfs als israel het huidige Hamas zou kunnen uitschakelen, de volgende generatie Hamas 2.0 van getraumatiseerde kinderen staat klaar, belust op wraak.</data>
+  <data key="d7">False</data>
+  <data key="d0">1764216462749606164</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">51</data>
+  <data key="d1">1764216462749606164</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1764216462749606164</data>
+</node>
+<node id="189809">
+  <data key="d4">2024-03-03T19:32:50+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@MichaelFreilich Het is een illusie te denken dat met Hamas uit te schakelen, vrede terug zal keren.  Israel moord een volk uit, kinderen zijn getuige van het vermoorden van hun ouders, de kiem voor volgende generatie terroristen wordt vandaag gekweekt dr Israël.  Deze oorlog zal nooit eindigen.</data>
+  <data key="d7">False</data>
+  <data key="d0">1764373387906810352</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">11</data>
+  <data key="d1">1764373387906810352</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1764373387906810352</data>
+</node>
+<node id="221792">
+  <data key="d4">2024-03-16T07:58:04+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@MichaelFreilich Hamas is volgens de meeste landen geen terroristische organisatie maar zijn het verzetsstrijders, alleen landen met sterke christelijke roots zijn zo naief.. iets met heilige land of zo iets, terwijl Israel hier Genocide pleegt, en al jaren de Palestijnen onderdrukt..</data>
+  <data key="d7">False</data>
+  <data key="d0">1768909585203499400</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1768909585203499400</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1768909585203499400</data>
+</node>
+<node id="232911">
+  <data key="d4">2024-03-19T18:52:33+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@MichaelFreilich @NoelSlangen Ik hoop het, want die is zo zot als een achterdeur.Uiteindelijk moet er op een of andere manier een vergelijk komen, met de Palestijnen, daarom niet met Hamas...Maar dan moet er in Israel iemand zoals Sharon opstaan...</data>
+  <data key="d7">False</data>
+  <data key="d0">1770161456035537030</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">62</data>
+  <data key="d1">1770161456035537030</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1770161456035537030</data>
+</node>
+<node id="237644">
+  <data key="d4">2024-03-21T22:21:53+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@MichaelFreilich @DeKamerBE Hames is deze oorlof niet gestart. Deze oorlog is begonnen minstens 75 jaar geleden. Hamas is opgericht, mede.door Israel, in 1986, om de PLO te verzwakken. Ewel "good job".</data>
+  <data key="d7">False</data>
+  <data key="d0">1770938909029003467</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">95</data>
+  <data key="d1">1770938909029003467</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1770938909029003467</data>
+</node>
+<node id="296720">
+  <data key="d4">2024-04-13T22:09:01+00:00</data>
+  <data key="d5">23</data>
+  <data key="d6">@MichaelFreilich Toen Hamas Israel aanviel, vond Netanyahu en Co dat ze heel Gaza mocht verwoesten, laat ons hopen dat Iran dezelfde logica niet gebruikt.</data>
+  <data key="d7">False</data>
+  <data key="d0">1779270593331761441</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">340</data>
+  <data key="d1">1779270593331761441</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1779270593331761441</data>
+</node>
+<node id="322166">
+  <data key="d4">2024-04-25T10:03:40+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@MichaelFreilich @NostalgieVL https://t.co/YcqpXtJbuS. My cousin was at the festival and he survived he also told that 70 % of Israeli were killed by Israel at the festival on 7 October and not by Hamas</data>
+  <data key="d7">False</data>
+  <data key="d0">1783436707980845363</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">2</data>
+  <data key="d1">1783436707980845363</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1783436707980845363</data>
+</node>
+<node id="1725">
+  <data key="d4">2024-02-17T22:12:44+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya Her name justifies what she does. A Muslim/terrorist defender🤮.#IraniansStandWithIsrael #HamasTerrorists #HamasRapist</data>
+  <data key="d7">False</data>
+  <data key="d0">1758977810834543015</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1758977810834543015</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1758977810834543015</data>
+</node>
+<node id="341217">
+  <data key="d4">2015-02-24T20:10:01+00:00</data>
+  <data key="d15">Member of the Belgian Parliament (Member of the Defence Committee + Committee on Foreign Affairs) / Women’s rights activist/Dentist</data>
+  <data key="d16">5957</data>
+  <data key="d17">112770</data>
+  <data key="d18">683</data>
+  <data key="d0">3060125596</data>
+  <data key="d19">True</data>
+  <data key="d20">391</data>
+  <data key="d21">Belgium</data>
+  <data key="d22">2059</data>
+  <data key="d23">Darya Safai MP</data>
+  <data key="d24">112770</data>
+  <data key="d25">False</data>
+  <data key="d26">SafaiDarya</data>
+  <data key="d27">5080</data>
+  <data key="d28">False</data>
+  <data key="d1">3060125596</data>
+  <data key="d2">User</data>
+  <data key="d29">3060125596</data>
+</node>
+<node id="1735">
+  <data key="d4">2024-02-17T12:12:13+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya #FightAgainstHamasTerrorists in @UN Don't finance #terrorism Vote @POTUS45 🇺🇲Vote for PEACE 🕊 #StandWithTexas 🇺🇲#StandWithUkraine 🇺🇦#StandWithIsrael 🇮🇱All these regions fight to protect their borders</data>
+  <data key="d7">False</data>
+  <data key="d0">1758826683900051869</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1</data>
+  <data key="d1">1758826683900051869</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1758826683900051869</data>
+</node>
+<node id="3821">
+  <data key="d4">2023-11-25T22:22:55+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@SafaiDarya @b22d68fe0ea34dd As shocking as it is the world needs to see the dregs of humanity that roam amongst us in the guise of Hamas god bless Israel</data>
+  <data key="d7">False</data>
+  <data key="d0">1728539791426265170</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">67</data>
+  <data key="d1">1728539791426265170</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728539791426265170</data>
+</node>
+<node id="3837">
+  <data key="d4">2023-11-23T21:09:10+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya #HamasisISIS😢😢😢😢😡😡😡😡😥😥😥 #StandWithIsrael 😥😭😭😭😡😡#Hamas_is_ISIS😢😢😢😢😡😡😡😡😥😥😥😥😭😭😭😡😡#TheWestIsNext</data>
+  <data key="d7">False</data>
+  <data key="d0">1727796453215510776</data>
+  <data key="d8">qme</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">52</data>
+  <data key="d1">1727796453215510776</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1727796453215510776</data>
+</node>
+<node id="3849">
+  <data key="d4">2023-11-24T10:08:34+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya No, they want the world to forget Oct. 07 ever happened so badly, the new refrain is now, Oct 07 is not the starting point of the conflict. Just glad Israel has what it takes to secure themselves after this horrible Hamas savages dealt one on them.</data>
+  <data key="d7">False</data>
+  <data key="d0">1727992598961570052</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">12</data>
+  <data key="d1">1727992598961570052</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1727992598961570052</data>
+</node>
+<node id="3865">
+  <data key="d4">2023-11-24T10:07:18+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@SafaiDarya The world should know what we're dealing with.  Israel tried to get ceasefire with Hamas and that was the biggest mistake ever!You don't negotiate with monsters!</data>
+  <data key="d7">False</data>
+  <data key="d0">1727992278549979607</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">28</data>
+  <data key="d1">1727992278549979607</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1727992278549979607</data>
+</node>
+<node id="7770">
+  <data key="d4">2023-11-26T14:11:07+00:00</data>
+  <data key="d5">15</data>
+  <data key="d6">@SafaiDarya Agree, but I am not able to understand why Palestinians receive Hamas Prisoners as heroes, and celebrate the brutal execution of 2 Palestinians accused of helping Israeli intelligence. Who is the real enemy? 🇺🇸🇬🇧</data>
+  <data key="d7">False</data>
+  <data key="d0">1728778411441545354</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">2006</data>
+  <data key="d1">1728778411441545354</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728778411441545354</data>
+</node>
+<node id="7905">
+  <data key="d4">2023-11-26T21:51:38+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@SafaiDarya Ik ben Fauda aan het kijken en deze Israelische serie is gebasseerd op ware feiten, dan zie wat voor een vreselijke plek Gaza is en Hamas nog erger dan erg.</data>
+  <data key="d7">False</data>
+  <data key="d0">1728894305186849018</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">87</data>
+  <data key="d1">1728894305186849018</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728894305186849018</data>
+</node>
+<node id="7975">
+  <data key="d4">2023-11-26T20:31:21+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@vanranstmarc @SafaiDarya @alexanderdecroo Israël is niet uit op wraak, Israël is uit op vernietigen van Hamas om eindelijk deze eindeloze cirkel van geweld te doorbreken. Hamas weigert te spreken met Israël en zegt dat er enkel vrede zal zijn als de laatste Israeli dood is. De kost hiervoor is wel extreem en veel te hoog</data>
+  <data key="d7">False</data>
+  <data key="d0">1728874103397085236</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">235</data>
+  <data key="d1">1728874103397085236</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728874103397085236</data>
+</node>
+<node id="7998">
+  <data key="d4">2023-11-26T07:11:33+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@vanranstmarc @SafaiDarya @alexanderdecroo Marc, je vergist je van schuldige mbt de slachtoffers. Israel doet alles wat ze kunnen om slachtoffers te minimaliseren, hamas probeert het te maximaliseren. Israel heeft het recht om Hamas uit te roeien, zeg eens HOE ze dit zonder slachtoffers kunnen doen dan? Ik wacht.</data>
+  <data key="d7">False</data>
+  <data key="d0">1728672824037155007</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">44</data>
+  <data key="d1">1728672824037155007</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728672824037155007</data>
+</node>
+<node id="7999">
+  <data key="d4">2023-11-25T22:28:14+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@vanranstmarc @SafaiDarya @alexanderdecroo Hamas has executed an operation of vengence. Israel defends itself against terrorism.</data>
+  <data key="d7">False</data>
+  <data key="d0">1728541127723164029</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">189</data>
+  <data key="d1">1728541127723164029</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728541127723164029</data>
+</node>
+<node id="14862">
+  <data key="d4">2024-01-02T20:30:23+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@SafaiDarya Israel is doing a great favour to the whole world fighting these monsters. Imagine what would happen if those pro terror gangs in the West get their hands on weapons sent by Hamas, in few years. Who can stop them? We need to help Israel now!</data>
+  <data key="d7">False</data>
+  <data key="d0">1742282209825083532</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">45</data>
+  <data key="d1">1742282209825083532</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1742282209825083532</data>
+</node>
+<node id="143983">
+  <data key="d4">2024-02-17T13:04:14+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya #FightAgainstHamasTerrorists in @UN Don't finance #terrorism Vote @POTUS45 🇺🇲Vote for PEACE 🕊 #StandWithTexas 🇺🇲#StandWithUkraine 🇺🇦#StandWithIsrael 🇮🇱All these regions fight to protect their borders</data>
+  <data key="d7">False</data>
+  <data key="d0">1758839772745769017</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">2</data>
+  <data key="d1">1758839772745769017</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1758839772745769017</data>
+</node>
+<node id="222319">
+  <data key="d4">2024-03-15T21:46:10+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya Shame on all European countries who turn a blind eye to these abysmal acts of hate and war. May it all be in vain. May Israel win a total and clear victory over all their enemies. May the retrieve all the hostages without any concession to Hamas. God bless Israel.</data>
+  <data key="d7">False</data>
+  <data key="d0">1768755595169902924</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">26</data>
+  <data key="d1">1768755595169902924</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1768755595169902924</data>
+</node>
+<node id="222394">
+  <data key="d4">2024-03-16T09:22:52+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya EU’s top diplomat accuses Israel of funding Hamas https://t.co/l9yLkVtipE</data>
+  <data key="d7">False</data>
+  <data key="d0">1768930927135146008</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">40</data>
+  <data key="d1">1768930927135146008</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1768930927135146008</data>
+</node>
+<node id="294928">
+  <data key="d4">2024-04-13T13:37:27+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya Wake up.پاینده #ایران و #اسرائیل❤️🦁💚#KingRezaPahlavi#IraniansStandWithIsrael#ننگ_بر_فتنه_۵٧ #HamasTerrorists#IRGCterrorists#BringThemHome#HamasMustSurrender https://t.co/t0NyX2d5LD</data>
+  <data key="d7">False</data>
+  <data key="d0">1779141851888390364</data>
+  <data key="d8">und</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1779141851888390364</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1779141851888390364</data>
+</node>
+<node id="303477">
+  <data key="d4">2024-04-16T03:38:11+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@SafaiDarya @i24NEWS_FR As an Iranian, I am sure that the Middle East and the world will reach peace only with Prince Reza Pahlavi, as it was during the time of Mohammad Reza Shah#MEPeaceWithPahlavi #IraniansStandWithIsrael #HamasTerrorists https://t.co/faRNXcQzc3</data>
+  <data key="d7">False</data>
+  <data key="d0">1780078208949342221</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">35</data>
+  <data key="d1">1780078208949342221</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1780078208949342221</data>
+</node>
+<node id="45492">
+  <data key="d4">2023-11-24T17:02:17+00:00</data>
+  <data key="d5">4656</data>
+  <data key="d6">Israel calls Prime Minister De Croo's statements during his visit "support for terrorism".This government and its statements are embarrassing for Belgium's image. The Belgian minister, Khattabi, who said she does not use the word terrorist to describe Hamas, and the Prime… https://t.co/wGmBUL0TxG</data>
+  <data key="d7">False</data>
+  <data key="d0">1728096714488156357</data>
+  <data key="d8">en</data>
+  <data key="d9">89</data>
+  <data key="d11">519</data>
+  <data key="d12">1032</data>
+  <data key="d13">443562</data>
+  <data key="d1">1728096714488156357</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1728096714488156357</data>
+</node>
+<node id="92095">
+  <data key="d4">2024-02-01T13:18:39+00:00</data>
+  <data key="d5">253</data>
+  <data key="d6">The end goal of Islamists.This Hamas poster was found in Gaza by one of the Israeli army's reservists. The poster is showing the Eiffel Tower with the spire of a minaret and, at the end, below it, a description explaining how Hamas will reach every home and every house.One… https://t.co/BSXslRsdMS</data>
+  <data key="d7">False</data>
+  <data key="d0">1753045196193841584</data>
+  <data key="d8">en</data>
+  <data key="d9">4</data>
+  <data key="d11">33</data>
+  <data key="d12">75</data>
+  <data key="d13">18807</data>
+  <data key="d1">1753045196193841584</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1753045196193841584</data>
+</node>
+<node id="300589">
+  <data key="d4">2024-04-14T16:57:10+00:00</data>
+  <data key="d5">290</data>
+  <data key="d6">Once again, the Islamic Republic of Iran is showing what a danger it poses to world security.Last time, they also planned Hamas' attack on Israel. Indeed, the Iranian regime, and more specifically the terrorist Zahedi, was the architect of the attack on the 7th of October.… https://t.co/kbdEfhTLqd</data>
+  <data key="d7">False</data>
+  <data key="d0">1779554500715450431</data>
+  <data key="d8">en</data>
+  <data key="d9">3</data>
+  <data key="d11">29</data>
+  <data key="d12">72</data>
+  <data key="d13">9230</data>
+  <data key="d1">1779554500715450431</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1779554500715450431</data>
+</node>
+<node id="341785">
+  <data key="d4">2012-11-16T08:23:58+00:00</data>
+  <data key="d15">Vice President NATO pa/ MP/ Mayor/ State Secretary for Migration (2014-18) / Rapporteur Middle East Special Group NATO pa</data>
+  <data key="d16">23307</data>
+  <data key="d17">162269</data>
+  <data key="d18">4677</data>
+  <data key="d0">951258554</data>
+  <data key="d19">True</data>
+  <data key="d20">566</data>
+  <data key="d21"></data>
+  <data key="d22">8362</data>
+  <data key="d23">Theo Francken MP</data>
+  <data key="d24">162269</data>
+  <data key="d25">False</data>
+  <data key="d26">FranckenTheo</data>
+  <data key="d27">46417</data>
+  <data key="d28">False</data>
+  <data key="d1">951258554</data>
+  <data key="d2">User</data>
+  <data key="d29">951258554</data>
+</node>
+<node id="43434">
+  <data key="d4">2024-01-24T15:49:07+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@Assita_Kanko @FranckenTheo Velen kennen de geschiedenis niet .Als ze Auschwitz bezocht hebben zullen ze wel anders spreken.Israel heeft het recht zich te verdedigen en vergeet niet dat 70 procent van de Palestijnen aanhangers zijn van Hamas .</data>
+  <data key="d7">False</data>
+  <data key="d0">1750183960565498036</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1</data>
+  <data key="d1">1750183960565498036</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750183960565498036</data>
+</node>
+<node id="43473">
+  <data key="d4">2024-01-21T21:32:44+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo Veel gebruikte drogreden: whataboutisme. Oeigoeren, Dinka, Congolezen, Armeniërs, Catalanen en vele anderen hebben niets te maken met Gaza/Israel. Europa en het Westen wel. De uitgenodigde Palestijnen zijn evenmin terroristen, gelinkt aan Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1749183270321856754</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">361</data>
+  <data key="d1">1749183270321856754</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1749183270321856754</data>
+</node>
+<node id="48451">
+  <data key="d4">2024-01-23T16:31:40+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo Iedereen weet dat Hamas Israel wil vernietigen. Ik denk dat je gewoon de verkeerde pers leest, Theo. Probeer anders eens een weekje van het fascistische doorbraak weg te blijven. Zal al veel helpen.</data>
+  <data key="d7">False</data>
+  <data key="d0">1749832281911378277</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">7</data>
+  <data key="d1">1749832281911378277</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1749832281911378277</data>
+</node>
+<node id="48460">
+  <data key="d4">2024-01-22T21:40:49+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo Hamas wil de vernietiging van Israel. Netanjahu wil de vernietiging van Hamas. Voor beide partijen is een tweestatenoplossing onaanvaardbaar. Dan stopt elke bemiddeling, toch??…</data>
+  <data key="d7">False</data>
+  <data key="d0">1749547692190060799</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">62</data>
+  <data key="d1">1749547692190060799</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1749547692190060799</data>
+</node>
+<node id="70496">
+  <data key="d4">2024-01-26T19:13:25+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo @pdsutter Steun aan Israel, it is a duty of humanity to destroy Hamas</data>
+  <data key="d7">False</data>
+  <data key="d0">1750960147831169100</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">10</data>
+  <data key="d1">1750960147831169100</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750960147831169100</data>
+</node>
+<node id="124310">
+  <data key="d4">2024-02-11T14:30:42+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@FranckenTheo @TimesofIsrael Wat je in de video ziet is de Prostar van Guanduong die de gelijkstroom van de zonnepanelen op het dak van het UNRWA-gebouw omzet in wisselstroom. De helft van de Vlamingen heeft zo’ “Hamas-installatie” in de “terroristentunnel” onder hun huis. https://t.co/tW1dUqNsKD</data>
+  <data key="d7">False</data>
+  <data key="d0">1756687208499622056</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">42</data>
+  <data key="d1">1756687208499622056</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756687208499622056</data>
+</node>
+<node id="124312">
+  <data key="d4">2024-02-11T09:43:29+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo @TimesofIsrael Vlareg steunde dus Hamas via een omweg. Ik zou zwijgen Theo before the emmer....€160.000 Vlaams belastinggeld gestort in januari 24 aan UN/Hamas...maar voor Vlaming "Is er geen geld".</data>
+  <data key="d7">False</data>
+  <data key="d0">1756614926938845404</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">93</data>
+  <data key="d1">1756614926938845404</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756614926938845404</data>
+</node>
+<node id="124315">
+  <data key="d4">2024-02-10T18:55:32+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@FranckenTheo @TimesofIsrael En ondertussen blijft de Belgische overheid UNRWA, en dus Hamas, financieel steunen."De juiste kant van de geschiedenis", zou Adolf zeggen.</data>
+  <data key="d7">False</data>
+  <data key="d0">1756391466186719298</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">168</data>
+  <data key="d1">1756391466186719298</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756391466186719298</data>
+</node>
+<node id="124328">
+  <data key="d4">2024-02-10T19:59:32+00:00</data>
+  <data key="d5">9</data>
+  <data key="d6">@FranckenTheo @TimesofIsrael Theoke stop aub met Joodse propaganda te verspreiden.  Als u het vermoorden van duizenden kinderen en onschuldige burgers ok vindt dan ben u een walgelijk sujet ! De aanval van Hamas veroordeel ik evenzeer.</data>
+  <data key="d7">False</data>
+  <data key="d0">1756407571911495750</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">169</data>
+  <data key="d1">1756407571911495750</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756407571911495750</data>
+</node>
+<node id="124344">
+  <data key="d4">2024-02-11T15:15:05+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@FranckenTheo @TimesofIsrael Misschien wat minder naar de zionistische lügenpress luisteren. Een paar serverracks en omvormers zijn blijkbaar al een commandocentrum van Hamas? Elk argument van die fascisten is goed om hun genocide te verantwoorden. En jij hebt kant gekozen, waarvan akte.</data>
+  <data key="d7">False</data>
+  <data key="d0">1756698376291205287</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1756698376291205287</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756698376291205287</data>
+</node>
+<node id="124372">
+  <data key="d4">2024-02-10T21:17:18+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@FranckenTheo @TimesofIsrael Euh, dacht U dat Hamas die, tot spijt van wie het benijdt, naast een terroristische organisatie ook een politieke en sociale organisatie is die sociale voorzieningen levert aan miljoenen Palestijnen dat allemaal met pen en papier doet?</data>
+  <data key="d7">False</data>
+  <data key="d0">1756427141745361167</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">137</data>
+  <data key="d1">1756427141745361167</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1756427141745361167</data>
+</node>
+<node id="133386">
+  <data key="d4">2024-02-14T12:55:14+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo @FranckenTheo een oprechte vraag: wat maakt Hamas een meer terroristische organisatie dan de Israelische regering? Als ik de cijfers objectief bekijk (en niet alleen van de onschuldige doden) dan zou ik net denken dat u aan een dood paard trekt, niet?</data>
+  <data key="d7">False</data>
+  <data key="d0">1757750347521556689</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">27</data>
+  <data key="d1">1757750347521556689</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757750347521556689</data>
+</node>
+<node id="133391">
+  <data key="d4">2024-02-14T07:56:12+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@FranckenTheo Israel mag hier wel een eigen politie dienst en ambassade hebben terwijl die meer kinderen vermoorden en illegale kolonies hebben dan de terroristen van Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1757675092417364239</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">96</data>
+  <data key="d1">1757675092417364239</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757675092417364239</data>
+</node>
+<node id="133400">
+  <data key="d4">2024-02-14T07:01:43+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@FranckenTheo Like that, it sounds really dramatic, but it’s not that Hamas has terrorist cells operating in Belgium with the aim to commit attacks here. It’s all about a money scheme. I’m more worried about Israel’s escalating genocidal actions.</data>
+  <data key="d7">False</data>
+  <data key="d0">1757661379849322691</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">23</data>
+  <data key="d1">1757661379849322691</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757661379849322691</data>
+</node>
+<node id="173879">
+  <data key="d4">2024-02-27T04:45:09+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@FranckenTheo https://t.co/kYvfRmAuNS "By banning Hamas and Samidoun in Germany, we have sent a clear signal that we will not tolerate any kind of glorification or support for Hamas' barbaric terror against Israel," said Faeser about the raids.</data>
+  <data key="d7">False</data>
+  <data key="d0">1762338054151561474</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1762338054151561474</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1762338054151561474</data>
+</node>
+<node id="231744">
+  <data key="d4">2024-03-19T11:49:45+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@FranckenTheo @deafspraaktv @alexanderdecroo En Hamas besluit plots op 7/10 om Israel eens aan te vallen en het komt de Amerikaanse warmongers industrie eens goed uit! Wie gelooft dit verhaal nog als men weet hoe de CIA de oorlog in Ukraine in gang gezet heeft! In deze corrupte wereld mag men niets nog voor waar aannemen!</data>
+  <data key="d7">False</data>
+  <data key="d0">1770055054310977703</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">52</data>
+  <data key="d1">1770055054310977703</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1770055054310977703</data>
+</node>
+<node id="265484">
+  <data key="d4">2024-04-01T18:50:41+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@FranckenTheo Inderdaad knap werk van Israel. Ze verdienen al onze steun. Hopelijk kunnen ze ook de volledige Hamas-top in Qatar elimineren. Die miljardairs die hun eigen volk liever zien creperen in Gaza dan de Joodse gijzelaard vrij te laten.</data>
+  <data key="d7">False</data>
+  <data key="d0">1774872027599433866</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">106</data>
+  <data key="d1">1774872027599433866</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1774872027599433866</data>
+</node>
+<node id="49980">
+  <data key="d4">2024-01-18T17:47:12+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@PeterDeRoover1 @carogennez De onvoorwaardelijke eenzijdige steun voor Israël is een instemmen met het zaaien van de zaadjes voor Hamas 2.0. Nog extremistischer dan wat wij vandaag kennen.Eenzijdig Israël steunen is het Israelische en Palestijnse volk het vooruitzicht geven op nog veel en veel erger.</data>
+  <data key="d7">False</data>
+  <data key="d0">1748039350799999101</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">213</data>
+  <data key="d1">1748039350799999101</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748039350799999101</data>
+</node>
+<node id="342998">
+  <data key="d4">2012-01-23T11:15:03+00:00</data>
+  <data key="d15">🔸Voorzitter @de_NVA Kamerfractie 🔸 lid partij- en dagelijks bestuur N-VA 🔸 @nvakamer 🔸 anoniem reageren en daarbij schelden of onzin uitkramen = blokkeren</data>
+  <data key="d16">2189</data>
+  <data key="d17">31565</data>
+  <data key="d18">648</data>
+  <data key="d0">471895761</data>
+  <data key="d19">False</data>
+  <data key="d20">208</data>
+  <data key="d21">Antwerpen, België</data>
+  <data key="d22">1062</data>
+  <data key="d23">Peter De Roover</data>
+  <data key="d24">31565</data>
+  <data key="d25">False</data>
+  <data key="d26">PeterDeRoover1</data>
+  <data key="d27">11400</data>
+  <data key="d28">False</data>
+  <data key="d1">471895761</data>
+  <data key="d2">User</data>
+  <data key="d29">471895761</data>
+</node>
+<node id="50182">
+  <data key="d4">2024-01-14T11:01:36+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@De7deDag @PeterDeRoover1 @de_NVA @alexanderdecroo @carogennez Je zet daar twee gelijkgezinden die zeggen dat er ‘kritiek’ mag zijn maar boos zijn als iemand een vrije mening uit wn enkel duidelijk wil maken dat er GEEN BURGERSLACHTOFFERS meer mogen vallen, noch door toedoen van Hamas noch door toedoen van Israel…</data>
+  <data key="d7">False</data>
+  <data key="d0">1746487725807600050</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">144</data>
+  <data key="d1">1746487725807600050</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1746487725807600050</data>
+</node>
+<node id="464664">
+  <data key="d0">DéFI</data>
+  <data key="d1">DéFI</data>
+  <data key="d2">Party</data>
+  <data key="d3">DéFI</data>
+</node>
+<node id="153986">
+  <data key="d4">2023-11-16T15:23:51+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@francoisdesmet "Alors que ces éléments démarrent toutes la séquence." Cette opinion ne fait pas l'unanimité. Idée : plainte au CPI contre les chefs du Hamas au Qatar, diligence d'une commission d'enquête indépendante en Israel pour répertorier les crimes de guerre. Ça signe la fin du Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1725172837483180050</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">173</data>
+  <data key="d1">1725172837483180050</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1725172837483180050</data>
+</node>
+<node id="341962">
+  <data key="d4">2010-10-10T14:27:57+00:00</data>
+  <data key="d15">Président @defi_eu &amp; député fédéral @LaChambreBEToujours philosophe.</data>
+  <data key="d16">10951</data>
+  <data key="d17">13510</data>
+  <data key="d18">2109</data>
+  <data key="d0">200876111</data>
+  <data key="d19">True</data>
+  <data key="d20">132</data>
+  <data key="d21">Brussels</data>
+  <data key="d22">484</data>
+  <data key="d23">François De Smet</data>
+  <data key="d24">13510</data>
+  <data key="d25">False</data>
+  <data key="d26">francoisdesmet</data>
+  <data key="d27">14085</data>
+  <data key="d28">False</data>
+  <data key="d1">200876111</data>
+  <data key="d2">User</data>
+  <data key="d29">200876111</data>
+</node>
+<node id="464665">
+  <data key="d0">PVDA-PTB</data>
+  <data key="d1">PVDA-PTB</data>
+  <data key="d2">Party</data>
+  <data key="d3">PVDA-PTB</data>
+</node>
+<node id="236303">
+  <data key="d4">2024-03-21T18:40:09+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@N_Boukili #Israel #October7th #selfdefence #Hamas #blackseptember #Munich72 #Hezbollah #ptb https://t.co/0eNpNwB6Ev</data>
+  <data key="d7">False</data>
+  <data key="d0">1770883110286008480</data>
+  <data key="d8">qme</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">59</data>
+  <data key="d1">1770883110286008480</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1770883110286008480</data>
+</node>
+<node id="345197">
+  <data key="d4">2014-05-17T19:31:59+00:00</data>
+  <data key="d15">Député fédéral PTB</data>
+  <data key="d16">617</data>
+  <data key="d17">1855</data>
+  <data key="d18">155</data>
+  <data key="d0">2502350551</data>
+  <data key="d19">False</data>
+  <data key="d20">0</data>
+  <data key="d21"></data>
+  <data key="d22">255</data>
+  <data key="d23">Nabil Boukili</data>
+  <data key="d24">1855</data>
+  <data key="d25">False</data>
+  <data key="d26">N_Boukili</data>
+  <data key="d27">989</data>
+  <data key="d28">False</data>
+  <data key="d1">2502350551</data>
+  <data key="d2">User</data>
+  <data key="d29">2502350551</data>
+</node>
+<node id="61506">
+  <data key="d4">2024-01-25T22:50:06+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens @JosDHaese Goed dat we wapens geleverd hebben aan de Israeli's. Hopelijk stopt de corrupte EU na de volgende verkiezingen en het waarschijnlijke verdwijnen van #URSSula #VonDerLiar met het sponsoren van Hamas met ons belastinggeld.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750652290808058094</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">4</data>
+  <data key="d1">1750652290808058094</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750652290808058094</data>
+</node>
+<node id="345204">
+  <data key="d4">2011-12-16T12:58:29+00:00</data>
+  <data key="d15">algemeen secretaris PVDA, secrétaire général du PTB, general secretary PVDA-PTB (Belgium), member of parliament, auteur 'Muiterij', 'Mutinerie'</data>
+  <data key="d16">683</data>
+  <data key="d17">24086</data>
+  <data key="d18">1646</data>
+  <data key="d0">438317752</data>
+  <data key="d19">False</data>
+  <data key="d20">245</data>
+  <data key="d21">Antwerpen</data>
+  <data key="d22">1982</data>
+  <data key="d23">Peter Mertens MP</data>
+  <data key="d24">24086</data>
+  <data key="d25">False</data>
+  <data key="d26">peter_mertens</data>
+  <data key="d27">9881</data>
+  <data key="d28">False</data>
+  <data key="d1">438317752</data>
+  <data key="d2">User</data>
+  <data key="d29">438317752</data>
+</node>
+<node id="66580">
+  <data key="d4">2024-01-27T08:50:35+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens @CIJ_ICJ @UN Ceasefire was not granted, meaning the recognition of the Israeli right to defend themselves against Hamas terror.</data>
+  <data key="d7">False</data>
+  <data key="d0">1751165794925306143</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">16</data>
+  <data key="d1">1751165794925306143</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1751165794925306143</data>
+</node>
+<node id="66595">
+  <data key="d4">2024-01-26T19:09:44+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@peter_mertens @CIJ_ICJ @UN Alle steun an Israel. It is a duty of humanity to destroy Hamas</data>
+  <data key="d7">False</data>
+  <data key="d0">1750959220231393335</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">10</data>
+  <data key="d1">1750959220231393335</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750959220231393335</data>
+</node>
+<node id="66656">
+  <data key="d4">2024-01-26T13:56:08+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@peter_mertens @CIJ_ICJ @UN Het hof beveelt geen staakt het vuren en zegt dat Israel alles moet doen om genocide te vermijden. Dat geldt ook voor Hamas trouwens. Dus zegt niet dat er nu al sprake is van genocide. Neemt niet weg dat oorlog altijd verschrikkelijk is.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750880301960532347</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">96</data>
+  <data key="d1">1750880301960532347</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750880301960532347</data>
+</node>
+<node id="66738">
+  <data key="d4">2024-01-26T13:37:11+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@peter_mertens @CIJ_ICJ @UN Hamas moet gijzelaars vrijlaten, Israel moet zo veel mogelijk slachtoffers vermijden. Wat is het verschil met heden ? Ben benieuwd wanner uw broeders de gijzelaars zal vrijlaten.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750875532089086370</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">25</data>
+  <data key="d1">1750875532089086370</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750875532089086370</data>
+</node>
+<node id="130807">
+  <data key="d4">2024-02-13T07:32:43+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@peter_mertens Dit narratief is geheel artificieel  en wordt gestuurd uit Moskou. Rusland gaf Hamas de opdracht om Israel uit te lokken zodat het Palestijnse volk in het kruisvuur zou raken. Hamas leiders in Qatar worden hiervoor rijkelijk vergoed. De Palestijnen zijn voor hen expendable.</data>
+  <data key="d7">False</data>
+  <data key="d0">1757306792248222119</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">28</data>
+  <data key="d1">1757306792248222119</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757306792248222119</data>
+</node>
+<node id="130835">
+  <data key="d4">2024-02-14T10:51:49+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens Israel gaat de gijzelaars bevrijden.Israël gaat Hamas (volgens Nederland een terroristische organisatie) uitschakelen.Dat is niet de definitie van etnische zuiveringHamas kan dit voorkomen door de gijzelaars vrij te laten, en zich over te geven.Ga dus klagen bij Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1757719287010070667</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">10</data>
+  <data key="d1">1757719287010070667</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757719287010070667</data>
+</node>
+<node id="134840">
+  <data key="d4">2024-02-15T07:26:00+00:00</data>
+  <data key="d5">35</data>
+  <data key="d6">@peter_mertens U hebt gelijk @peter_mertens . Indien Israel het uitstekende beleid van jullie Grote Leider uit Noord-Korea had overgenomen, waren al die bombardementjes overbodig. Er waren zelfs helemaal geen Palestijnen meer en dus ook geen Hamas terrorisme dankzij het communisme.</data>
+  <data key="d7">False</data>
+  <data key="d0">1758029880514506898</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">2</data>
+  <data key="d13">227</data>
+  <data key="d1">1758029880514506898</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1758029880514506898</data>
+</node>
+<node id="158824">
+  <data key="d4">2024-02-20T18:05:04+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@peter_mertens En hoeveel als Hamas alle Israeli gijzelaars vrijlaat en zichzelf overgeeft?</data>
+  <data key="d7">False</data>
+  <data key="d0">1760002643605471476</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">63</data>
+  <data key="d1">1760002643605471476</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1760002643605471476</data>
+</node>
+<node id="180811">
+  <data key="d4">2024-03-01T00:11:02+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens Vertrappelde mensen in paniek,doodgereden door camions..lijkt er meer op...Uw cijfers over slachtoffers...van Hamas gekregen?Die terroristen stelen het eten,dat elke dag via Israel nota bene binnenkomt..herkent U deze werkelijkheid?</data>
+  <data key="d7">False</data>
+  <data key="d0">1763356234718068761</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1763356234718068761</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1763356234718068761</data>
+</node>
+<node id="185024">
+  <data key="d4">2024-03-02T09:09:58+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens Palestijnen/Hamas/Unwra e.a.hebben ervoor gezorgd,dat Israelische burgers de dagelijkse bombardementen,en die onveiligheid voor hun families,dat ze dat kotsbeu zijnHoe denkt U dat ze in Berlijn zouden reageren op regelmatige raket aanvallen van een buurland?2 realiteiten,niet 1</data>
+  <data key="d7">False</data>
+  <data key="d0">1763854251007050197</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1763854251007050197</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1763854251007050197</data>
+</node>
+<node id="188643">
+  <data key="d4">2024-03-03T15:33:36+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens @BBCWorld Alle steun aan Israel. Israel does a service to civilisation by destroying Hamas</data>
+  <data key="d7">False</data>
+  <data key="d0">1764313181839610107</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1764313181839610107</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1764313181839610107</data>
+</node>
+<node id="286517">
+  <data key="d4">2024-04-08T18:30:54+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@peter_mertens Laat Israel eerst Hamas verslaanhttps://t.co/jirh1NkCtI</data>
+  <data key="d7">False</data>
+  <data key="d0">1777403764581769296</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1</data>
+  <data key="d1">1777403764581769296</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1777403764581769296</data>
+</node>
+<node id="48817">
+  <data key="d4">2024-01-10T17:58:37+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@DeVuystSteven @hadjalahbib Gaza/Hamas wilt Joodse genocide. Israel verdedigde zichzelf maar zij zijn het monster? Volk zoals jij had de Nazi’s gesteund …</data>
+  <data key="d7">False</data>
+  <data key="d0">1745143121053106541</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">14</data>
+  <data key="d1">1745143121053106541</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745143121053106541</data>
+</node>
+<node id="356971">
+  <data key="d4">2018-05-08T12:45:23+00:00</data>
+  <data key="d15">volksvertegenwoordiger PVDA en schepen in #Zelzategeweldig</data>
+  <data key="d16">295</data>
+  <data key="d17">543</data>
+  <data key="d18">316</data>
+  <data key="d0">993834246937694213</data>
+  <data key="d19">False</data>
+  <data key="d20">19</data>
+  <data key="d21"></data>
+  <data key="d22">56</data>
+  <data key="d23">Steven De Vuyst</data>
+  <data key="d24">543</data>
+  <data key="d25">False</data>
+  <data key="d26">DeVuystSteven</data>
+  <data key="d27">342</data>
+  <data key="d28">False</data>
+  <data key="d1">993834246937694213</data>
+  <data key="d2">User</data>
+  <data key="d29">993834246937694213</data>
+</node>
+<node id="48849">
+  <data key="d4">2023-12-30T18:57:55+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@DeVuystSteven @hadjalahbib @alexanderdecroo Er is geen apartheid in Israel. Arabieren maken 21% van de bevolking uit en hebben er dezelfde rechten. Gaza is in handen van de walgelijkste terroristen, die de Wereld ooit heeft gezien. De Westbank is in handen van een corrupt incompetent regime. Er zijn veel Hamas aanhangers</data>
+  <data key="d7">False</data>
+  <data key="d0">1741171776866971877</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">1</data>
+  <data key="d13">34</data>
+  <data key="d1">1741171776866971877</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1741171776866971877</data>
+</node>
+<node id="48942">
+  <data key="d4">2023-12-18T14:34:30+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@DeVuystSteven "vluchtelingenkamp in Gaza bestaat uit betonnen betonnen gebouwen" Ze blijven vluchtelingen kamp genoemd worden omdat ze onder de UN opgericht zijn. Israel wilt UNWRA definitief weg uit Gaza on tal van redenen: UN geld gaat naar de tunnels en het terroristenleger van Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1736756831152718316</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">93</data>
+  <data key="d1">1736756831152718316</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1736756831152718316</data>
+</node>
+<node id="130486">
+  <data key="d4">2024-02-12T20:26:01+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@DeVuystSteven Wij worden het toch stilaan beu om steeds hetzelfde verhaal te horen tegen Israel. Indien u zich wat zou inzetten om Hamas te overtuigen hun strijd te staken en alle gijzelaars vrij te laten zouden wij op de goede weg zijn</data>
+  <data key="d7">False</data>
+  <data key="d0">1757139013662597348</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">7</data>
+  <data key="d1">1757139013662597348</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1757139013662597348</data>
+</node>
+<node id="239992">
+  <data key="d4">2024-03-21T19:05:40+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@DeVuystSteven You are pretty wrong. The west (and yes also Israel) is doing its best to deliver as much aid as possible. Hamas and the local leaders are the ones denying the citizens that aid, not Israel, not the West. https://t.co/uoQGjhLBBB</data>
+  <data key="d7">False</data>
+  <data key="d0">1770889530599473510</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1770889530599473510</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1770889530599473510</data>
+</node>
+<node id="254599">
+  <data key="d4">2024-03-27T22:42:05+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@DeVuystSteven @hadjalahbib @carogennez Een grote incapabele bende anti Israel,die geen flauw idee hebben,van wat er zich echt afspeelt!Resultaat:een grotere oorlog,vleugels voor Hamas,en een contra productieve resultaat,die ellende verlengt!1 grote pot terroristen.Genoeg is genoeg!</data>
+  <data key="d7">False</data>
+  <data key="d0">1773118319819739360</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">12</data>
+  <data key="d1">1773118319819739360</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1773118319819739360</data>
+</node>
+<node id="254601">
+  <data key="d4">2024-03-27T16:22:37+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@DeVuystSteven @hadjalahbib @carogennez Israël heeft Gaza verlaten in 2005 en ook alle joodse settlers zijn verwijderd. In 2007 greep Hamas de macht en vorm Gaza om toot een terreurbasis tegen Israël.In Israel is 20% van de bevolking  Arabisch en netzoals bedoeïen, Druzen hebben ze er dezelfde recht als Israelis</data>
+  <data key="d7">False</data>
+  <data key="d0">1773022827605528820</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">9</data>
+  <data key="d1">1773022827605528820</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1773022827605528820</data>
+</node>
+<node id="257839">
+  <data key="d4">2024-03-28T07:11:31+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@DeVuystSteven @hadjalahbib @carogennez Welke soort job is “special rapporteur” zelfs? Zij is sinds de oertijd al anti-Israel en duidelijk partijdig. Zij herhaalt elke Hamas verhaaltje vlekkeloos. Hamas moet de wapens neerleggen en de gijzelaars vrijlaten. Dan vrede!</data>
+  <data key="d7">False</data>
+  <data key="d0">1773246524744495308</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">3</data>
+  <data key="d1">1773246524744495308</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1773246524744495308</data>
+</node>
+<node id="325984">
+  <data key="d4">2024-04-25T18:33:07+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@DeVuystSteven @hadjalahbib De medewerker van Enabel en zijn zoontje bevonden zich in het huis van een prominent Hamas-lid. Dit leidt tot de conclusie dat netzoals bij UNWRA alle medewerkers bij deze NGO ook banden hebben met Hamas. Je kan natuurlijk niet verwachten dat Israel alle info over Hamas nu al</data>
+  <data key="d7">False</data>
+  <data key="d0">1783564914923053454</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">39</data>
+  <data key="d1">1783564914923053454</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1783564914923053454</data>
+</node>
+<node id="464667">
+  <data key="d0">MR</data>
+  <data key="d1">MR</data>
+  <data key="d2">Party</data>
+  <data key="d3">MR</data>
+</node>
+<node id="200427">
+  <data key="d4">2024-03-07T13:48:36+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@ducarmedenis @frandisi Le fait que les populations civiles d'Israel aient subit des actes horribles de la part du Hamas ne justifie ou n'excuse pas de commettre un génocide en retour!Mais s'attaquer à l'art, effectivement, je pense pas que ça soit productif non plus.</data>
+  <data key="d7">False</data>
+  <data key="d0">1765736309564309536</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">39</data>
+  <data key="d1">1765736309564309536</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1765736309564309536</data>
+</node>
+<node id="346292">
+  <data key="d4">2009-09-18T16:00:47+00:00</data>
+  <data key="d15">𝟑 è𝐦𝐞 à 𝐥𝐚 𝐂𝐡𝐚𝐦𝐛𝐫𝐞 - Chef de file MR de #Charleroi❤️ - Député Fédéral - Ancien Ministre des Indépendants &amp; PME et de l'Intégration sociale</data>
+  <data key="d16">4601</data>
+  <data key="d17">20219</data>
+  <data key="d18">14304</data>
+  <data key="d0">75315061</data>
+  <data key="d19">False</data>
+  <data key="d20">224</data>
+  <data key="d21">Charleroi</data>
+  <data key="d22">1192</data>
+  <data key="d23">Denis Ducarme</data>
+  <data key="d24">20219</data>
+  <data key="d25">False</data>
+  <data key="d26">ducarmedenis</data>
+  <data key="d27">5338</data>
+  <data key="d28">False</data>
+  <data key="d1">75315061</data>
+  <data key="d2">User</data>
+  <data key="d29">75315061</data>
+</node>
+<node id="21665">
+  <data key="d4">2023-10-17T07:11:13+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@Sophie_Wilmes @Thierry_PELTIER Israel and the United States are terrorists and criminals. Look at how Hamas takes care of prisoners of war.</data>
+  <data key="d7">False</data>
+  <data key="d0">1714177228081393960</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">7</data>
+  <data key="d1">1714177228081393960</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1714177228081393960</data>
+</node>
+<node id="351107">
+  <data key="d4">2012-03-06T15:50:06+00:00</data>
+  <data key="d15">Lead candidate MR for the 2024 EU elections 🇪🇺 Served in 5 governments in different positions, including Prime minister 🇧🇪 Liberal and mother of 4</data>
+  <data key="d16">1096</data>
+  <data key="d17">88823</data>
+  <data key="d18">1317</data>
+  <data key="d0">516626068</data>
+  <data key="d19">False</data>
+  <data key="d20">501</data>
+  <data key="d21">Belgique</data>
+  <data key="d22">1695</data>
+  <data key="d23">Sophie Wilmès</data>
+  <data key="d24">88823</data>
+  <data key="d25">False</data>
+  <data key="d26">Sophie_Wilmes</data>
+  <data key="d27">3310</data>
+  <data key="d28">False</data>
+  <data key="d1">516626068</data>
+  <data key="d2">User</data>
+  <data key="d29">516626068</data>
+</node>
+<node id="72454">
+  <data key="d4">2024-01-29T06:05:13+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@DeMaegdMichel @Groumphy Rien que le fait d’utiliser les termes : guerre à Gaza d’Israel contre le Hamas vous décrédibilise quant à une position nuancée et objective.</data>
+  <data key="d7">False</data>
+  <data key="d0">1751848954621260046</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">128</data>
+  <data key="d1">1751848954621260046</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1751848954621260046</data>
+</node>
+<node id="353176">
+  <data key="d4">2019-03-25T12:36:01+00:00</data>
+  <data key="d15">Député fédéral @MR Ex-présentateur du JT de @RTLTVI</data>
+  <data key="d16">367</data>
+  <data key="d17">1961</data>
+  <data key="d18">561</data>
+  <data key="d0">1110158391211708416</data>
+  <data key="d19">False</data>
+  <data key="d20">32</data>
+  <data key="d21">Bruxelles, Belgique</data>
+  <data key="d22">85</data>
+  <data key="d23">Michel De Maegd</data>
+  <data key="d24">1961</data>
+  <data key="d25">False</data>
+  <data key="d26">DeMaegdMichel</data>
+  <data key="d27">338</data>
+  <data key="d28">False</data>
+  <data key="d1">1110158391211708416</data>
+  <data key="d2">User</data>
+  <data key="d29">1110158391211708416</data>
+</node>
+<node id="464668">
+  <data key="d0">Ecolo-Groen</data>
+  <data key="d1">Ecolo-Groen</data>
+  <data key="d2">Party</data>
+  <data key="d3">Ecolo-Groen</data>
+</node>
+<node id="636">
+  <data key="d4">2024-01-26T20:34:16+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@SarahSchlitz Vu les appels au génocide du peuple juif de la part du Hamas, Israel devra mettre tout en oeuvre pour détruire le Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750980496702546195</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">33</data>
+  <data key="d1">1750980496702546195</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750980496702546195</data>
+</node>
+<node id="341027">
+  <data key="d4">2012-02-09T07:38:45+00:00</data>
+  <data key="d15">Députée fédérale @ecolo / féministe / politologue / urbaniste</data>
+  <data key="d16">1901</data>
+  <data key="d17">6116</data>
+  <data key="d18">1055</data>
+  <data key="d0">487325531</data>
+  <data key="d19">False</data>
+  <data key="d20">113</data>
+  <data key="d21">Liège</data>
+  <data key="d22">171</data>
+  <data key="d23">Sarah Schlitz</data>
+  <data key="d24">6116</data>
+  <data key="d25">False</data>
+  <data key="d26">SarahSchlitz</data>
+  <data key="d27">935</data>
+  <data key="d28">False</data>
+  <data key="d1">487325531</data>
+  <data key="d2">User</data>
+  <data key="d29">487325531</data>
+</node>
+<node id="55141">
+  <data key="d4">2024-01-24T20:03:36+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@PlatteauEva The best way is that after releasing the hostages, all the members of Hamas commit collective suicide. That is the best solution for the civilians in Gaza and all the people of Israel</data>
+  <data key="d7">False</data>
+  <data key="d0">1750248004378837450</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">6</data>
+  <data key="d1">1750248004378837450</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750248004378837450</data>
+</node>
+<node id="342162">
+  <data key="d4">2020-10-30T14:49:30+00:00</data>
+  <data key="d15">💚 Kamerlid @groen – Gemeenteraadslid @groenleuven – PhD sociale wetenschappen –  Commissie voor Binnenlandse Zaken, Veiligheid, Migratie en Bestuurszaken</data>
+  <data key="d16">9020</data>
+  <data key="d17">1123</data>
+  <data key="d18">459</data>
+  <data key="d0">1322188861724909568</data>
+  <data key="d19">False</data>
+  <data key="d20">19</data>
+  <data key="d21">Leuven</data>
+  <data key="d22">46</data>
+  <data key="d23">Eva Platteau</data>
+  <data key="d24">1123</data>
+  <data key="d25">False</data>
+  <data key="d26">PlatteauEva</data>
+  <data key="d27">1148</data>
+  <data key="d28">False</data>
+  <data key="d1">1322188861724909568</data>
+  <data key="d2">User</data>
+  <data key="d29">1322188861724909568</data>
+</node>
+<node id="55400">
+  <data key="d4">2024-01-10T18:38:11+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@PlatteauEva @Toxicdeath001 Genocide is de systematische slachting van een bepaalde volk!Dit is een oorlog,en die is door Palestijnen/Hamas uitgelokt,en ja,er vallen doden...erg.Israel vecht tegen terroristen..en dit is niet gemakkelijk!U misbruikt het woord,en dit is walgelijk!Kleinzoon v gedeporteerde</data>
+  <data key="d7">False</data>
+  <data key="d0">1745153077445816507</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1745153077445816507</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745153077445816507</data>
+</node>
+<node id="55461">
+  <data key="d4">2024-01-10T19:43:09+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@PlatteauEva Wees solidair met de mensen van Gaza, verhuis naar ginder, kruip er onder een steen en blijf er vooral ! Hamas started this war, Israel will finish it !</data>
+  <data key="d7">False</data>
+  <data key="d0">1745169427283210645</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">2</data>
+  <data key="d1">1745169427283210645</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745169427283210645</data>
+</node>
+<node id="55497">
+  <data key="d4">2024-01-10T12:58:29+00:00</data>
+  <data key="d5">8</data>
+  <data key="d6">@PlatteauEva Genoeg getreuzeld. De sexuele mishandeling van Israelische vrouwen door Hamas terroristen moet ophouden, en alle gijzelaars moeten onmiddellijk vrijgelaten worden.</data>
+  <data key="d7">False</data>
+  <data key="d0">1745067588672163963</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">53</data>
+  <data key="d1">1745067588672163963</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745067588672163963</data>
+</node>
+<node id="55566">
+  <data key="d4">2024-01-10T12:42:34+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@PlatteauEva #HamasTerrorrists and #HamasRapists will not be given a chance to regroup.  Sorry...Israel will correctly finish the job this time.</data>
+  <data key="d7">False</data>
+  <data key="d0">1745063582193057992</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">38</data>
+  <data key="d1">1745063582193057992</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745063582193057992</data>
+</node>
+<node id="55586">
+  <data key="d4">2024-01-10T17:28:22+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@PlatteauEva 'vergeldingsactie'.......je hebt er echt niets van begrepen: het gaat Israel om het uitschakelen van Hamas. Net zoals WO2 geen 'vergeldingsactie' was tegen de Duitse inval in Polen. Het is een oorlog waarin de gijand verslagen dient te worden...of zich moet over geven</data>
+  <data key="d7">False</data>
+  <data key="d0">1745135507900686764</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">5</data>
+  <data key="d1">1745135507900686764</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745135507900686764</data>
+</node>
+<node id="272776">
+  <data key="d4">2024-04-03T18:19:51+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@PlatteauEva Na een aantal dagen oorlog maakte Netanyahu op televisie bekend dat Israel de militaire activiteiten zou staken als Hamas zich onvoorwaardelijk overgaf. De rest is geschiedenis, de Palestijnen blijkbaar voorkeur voor een pak op hun broek...!</data>
+  <data key="d7">False</data>
+  <data key="d0">1775589044602159574</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">39</data>
+  <data key="d1">1775589044602159574</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1775589044602159574</data>
+</node>
+<node id="272797">
+  <data key="d4">2024-04-03T18:04:43+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@PlatteauEva Voor Hamas zijn kinderen martelaars voor de jihad tegen Israel. Ze worden al in de kleuterklas opgeleid zodat ze op hun 14 jaar soldaten op straat de nek over proberen snijden en omver geschoten worden. https://t.co/jUEk0mn3ql https://t.co/VZhDvziAQM</data>
+  <data key="d7">False</data>
+  <data key="d0">1775585237176635540</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">8</data>
+  <data key="d1">1775585237176635540</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1775585237176635540</data>
+</node>
+<node id="153453">
+  <data key="d4">2024-02-20T17:54:16+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@SimonMoutquin Et quand le Hamas compte-t-il libérer les otages?Israël ne semble pas accéder à l’exigence de libération de candidats aux postes laissés vacants dans les rangs de cette milice=&amp;gt;?#IStandWithIsrael</data>
+  <data key="d7">False</data>
+  <data key="d0">1759999928678445443</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">67</data>
+  <data key="d1">1759999928678445443</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1759999928678445443</data>
+</node>
+<node id="345608">
+  <data key="d4">2014-02-24T13:47:38+00:00</data>
+  <data key="d15">Député fédéral Ecolo tourné vers le 🌎 et vers les suivants. Justice, liberté et utopie :)(Clichés...)</data>
+  <data key="d16">1608</data>
+  <data key="d17">2900</data>
+  <data key="d18">704</data>
+  <data key="d0">2359526718</data>
+  <data key="d19">False</data>
+  <data key="d20">47</data>
+  <data key="d21">Ottignies-Louvain-la-Neuve, Be</data>
+  <data key="d22">147</data>
+  <data key="d23">Simon Moutquin</data>
+  <data key="d24">2900</data>
+  <data key="d25">False</data>
+  <data key="d26">SimonMoutquin</data>
+  <data key="d27">1839</data>
+  <data key="d28">False</data>
+  <data key="d1">2359526718</data>
+  <data key="d2">User</data>
+  <data key="d29">2359526718</data>
+</node>
+<node id="30932">
+  <data key="d4">2024-01-18T15:57:06+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@Ecolo @SamuelCogolati Ben oui. Les USA n’ont pas besoin de la Belgique pour s’occuper des alliés du Hamas… pas plus que nous n’avons besoin de nous rallier à l’Afrique du Sud dans sa plainte en qualifiant la riposte d’Israel de prétexte à génocide.</data>
+  <data key="d7">False</data>
+  <data key="d0">1748011641411674441</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">138</data>
+  <data key="d1">1748011641411674441</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748011641411674441</data>
+</node>
+<node id="346938">
+  <data key="d4">2015-03-11T10:08:49+00:00</data>
+  <data key="d15">Député fédéral @Ecolo | Président du groupe 🇧🇪 @IPUparliament | PhD in international law @KU_Leuven</data>
+  <data key="d16">20447</data>
+  <data key="d17">6039</data>
+  <data key="d18">6312</data>
+  <data key="d0">3086239053</data>
+  <data key="d19">False</data>
+  <data key="d20">79</data>
+  <data key="d21">Huy, Belgique</data>
+  <data key="d22">429</data>
+  <data key="d23">Samuel Cogolati</data>
+  <data key="d24">6039</data>
+  <data key="d25">False</data>
+  <data key="d26">SamuelCogolati</data>
+  <data key="d27">3807</data>
+  <data key="d28">False</data>
+  <data key="d1">3086239053</data>
+  <data key="d2">User</data>
+  <data key="d29">3086239053</data>
+</node>
+<node id="30935">
+  <data key="d4">2024-01-18T15:50:08+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@Ecolo @SamuelCogolati C'est marrant, le génocide des civils tués en Israel par le HAMAS, ça passait crème. L'opération pour éradiquer le Hamas, ça vous semble génocidaire. Dès lors, la bataille de Berlin en 1945 pour achever le régime nazi, c'était aussi un génocide ? Dans les 2 cas: pertes civiles</data>
+  <data key="d7">False</data>
+  <data key="d0">1748009890474246449</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">118</data>
+  <data key="d1">1748009890474246449</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748009890474246449</data>
+</node>
+<node id="23073">
+  <data key="d4">2024-01-19T17:51:31+00:00</data>
+  <data key="d5">27</data>
+  <data key="d6">@WouterDeVriendt Ben momenteel in Cape Town. #IsraelHamasConflict is hier totaal afwezig. Niet in de krant, niet op TV. Lokale bevolking heeft geen idee waarover het gaat. SA is dikke vriendjes met Rusland die hen betaald heeft om die klacht in te dienen. Komt hem goed uit.</data>
+  <data key="d7">False</data>
+  <data key="d0">1748402825250414670</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">2</data>
+  <data key="d13">324</data>
+  <data key="d1">1748402825250414670</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1748402825250414670</data>
+</node>
+<node id="351213">
+  <data key="d4">2010-05-16T14:48:30+00:00</data>
+  <data key="d15">@Groen - Member of Parliament (MP) / Belgium / Fractieleider Ecolo-Groen - Voorzitter Gemeenteraad Oostende</data>
+  <data key="d16">5699</data>
+  <data key="d17">16195</data>
+  <data key="d18">1108</data>
+  <data key="d0">144519396</data>
+  <data key="d19">False</data>
+  <data key="d20">244</data>
+  <data key="d21">Oostende, België</data>
+  <data key="d22">783</data>
+  <data key="d23">Wouter De Vriendt</data>
+  <data key="d24">16195</data>
+  <data key="d25">False</data>
+  <data key="d26">WouterDeVriendt</data>
+  <data key="d27">8214</data>
+  <data key="d28">False</data>
+  <data key="d1">144519396</data>
+  <data key="d2">User</data>
+  <data key="d29">144519396</data>
+</node>
+<node id="23316">
+  <data key="d4">2024-01-11T21:20:36+00:00</data>
+  <data key="d5">8</data>
+  <data key="d6">@groen @WouterDeVriendt Jullie gaan na dat staakt het vuren ongetwijfeld Hamas beletten om Israel nog verder te bestoken. wil je ons hier en nu eens klaar en duidelijk uitleggen hoe?Door Israël voor het gerecht te brengen Eerlijk? en dan zal Hamas en Hezbollah stoppen en wordt Israel erkend ? Echt?</data>
+  <data key="d7">False</data>
+  <data key="d0">1745556336841048440</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">2</data>
+  <data key="d13">139</data>
+  <data key="d1">1745556336841048440</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745556336841048440</data>
+</node>
+<node id="23349">
+  <data key="d4">2024-01-11T18:28:33+00:00</data>
+  <data key="d5">7</data>
+  <data key="d6">@groen @WouterDeVriendt Ik ben er niet zeker van of er eigenlijk al één bom op een hospitaal in Gaza gedropt is door Israel. Bepaalde hospitalen zijn bezet of bevrijd, hangt er van af of en aan welke kant van het conflict je staat. Er is misschien gevochten IN hispitalen tegen Hamas, dat wel.</data>
+  <data key="d7">False</data>
+  <data key="d0">1745513040395530353</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">138</data>
+  <data key="d1">1745513040395530353</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745513040395530353</data>
+</node>
+<node id="23476">
+  <data key="d4">2024-01-11T20:28:38+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@groen @WouterDeVriendt En wanneer gaat u wel actie ondernemen?Want door dergelijke oproepen sterft er geen Palestijn minder#alleenhetgewetenisgesustGraag ook hoe u zowel Hamas als Israel gaat forceren zich aan dat staakt-het-vuren te houdenIndien u dat niet kan,tja dan iets met een splinter en balk</data>
+  <data key="d7">False</data>
+  <data key="d0">1745543261475741998</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">52</data>
+  <data key="d1">1745543261475741998</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745543261475741998</data>
+</node>
+<node id="23585">
+  <data key="d4">2024-01-11T17:18:52+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@groen @WouterDeVriendt Israel kan niet hard genoeg terugslaan. Het is over. Niks dialoog, niks redelijk. Gaza is Hamas, en Hamas moet uitgeveegd worden.</data>
+  <data key="d7">False</data>
+  <data key="d0">1745495505256186173</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">12</data>
+  <data key="d1">1745495505256186173</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745495505256186173</data>
+</node>
+<node id="23592">
+  <data key="d4">2024-01-11T19:20:01+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@groen @WouterDeVriendt Israel does a service to the world by destroying Hamas. Go Israel</data>
+  <data key="d7">False</data>
+  <data key="d0">1745525991227703450</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">11</data>
+  <data key="d1">1745525991227703450</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1745525991227703450</data>
+</node>
+<node id="23953">
+  <data key="d4">2024-01-09T09:49:07+00:00</data>
+  <data key="d5">59</data>
+  <data key="d6">@groen @_nadianaji @WouterDeVriendt Ik zou een onderzoek willen naar de infiltratie van extremistische moslim groeperingen in ons land die op anti-Israel betogingen staan zwaaien met Hamas, Hezbollah en zelfs IS vlaggen. En waarom zij dat in ons land zomaar openlijk kunnen doen zonder opgepakt te worden.</data>
+  <data key="d7">False</data>
+  <data key="d0">1744657542758666585</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">4</data>
+  <data key="d13">444</data>
+  <data key="d1">1744657542758666585</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1744657542758666585</data>
+</node>
+<node id="23999">
+  <data key="d4">2024-01-10T05:55:02+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@groen @_nadianaji @WouterDeVriendt Vraagt @groen ook dat het ICRC onmiddellijk toegang krijgt tot de gijzelaars die door Hamas wederrechtelijk worden gevangen gehouden, specifiek de jonge Israelische vrouwen die dagelijks sexuele vernederingen ondergaan? Of zijn diens rechten niet belangrijk?</data>
+  <data key="d7">False</data>
+  <data key="d0">1744961025516937404</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">33</data>
+  <data key="d1">1744961025516937404</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1744961025516937404</data>
+</node>
+<node id="68303">
+  <data key="d4">2024-01-27T10:23:13+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@WouterDeVriendt Je vergat er nog een Hamas moet de gijzelaars vrijlaten. En Israel doet al het genoemde al en zal dus geen aanpassingen doen. Dit circus was om een Staakt het vuren af te dwingen en juist dat heeft het #ICJ niet opgelegd. De rest is Blah blah blah!</data>
+  <data key="d7">False</data>
+  <data key="d0">1751189106732797977</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">3</data>
+  <data key="d1">1751189106732797977</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1751189106732797977</data>
+</node>
+<node id="68321">
+  <data key="d4">2024-01-26T13:27:51+00:00</data>
+  <data key="d5">26</data>
+  <data key="d6">@WouterDeVriendt Wel beste Wouter, Israel moet haar bodemoffensief dus niet stopzetten, Hamas moet de gijzelaars dadelijk en onvoorwaardelijk vrijlaten en humanitaire hulp doorlaten.Graag gedaan.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750873185656897549</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">423</data>
+  <data key="d1">1750873185656897549</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750873185656897549</data>
+</node>
+<node id="68324">
+  <data key="d4">2024-01-26T14:45:01+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@WouterDeVriendt Vernietigend? Hoezo? Israel wordt opgedragen voorzichtig te zijn (doen ze al) en documenteren niet te hinderen. Geen staakt-het-vuren of zo. Voor Israel verandert er de facto niets, maw ze zijn niet slecht bezig.Hamas daarentegen wordt bevolen de gijzelaars vrij te laten</data>
+  <data key="d7">False</data>
+  <data key="d0">1750892602973389204</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">78</data>
+  <data key="d1">1750892602973389204</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750892602973389204</data>
+</node>
+<node id="68348">
+  <data key="d4">2024-01-27T07:12:22+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@WouterDeVriendt U leest alles altijd met een roze bril op. Leesblind of selectief lezen zou ook kunnen natuurlijk, maar haat tegen Israel daar ben ik zeker van. Hamas moet alle gijzelaars vrijlaten was u ontgaan zeker?</data>
+  <data key="d7">False</data>
+  <data key="d0">1751141077044605132</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">37</data>
+  <data key="d1">1751141077044605132</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1751141077044605132</data>
+</node>
+<node id="68367">
+  <data key="d4">2024-01-26T18:37:34+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@WouterDeVriendt ICJ: - Israel, go on preventing genocide as you do;- Hamas, release all hostages.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750951125375750259</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">18</data>
+  <data key="d1">1750951125375750259</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750951125375750259</data>
+</node>
+<node id="68376">
+  <data key="d4">2024-01-27T01:23:25+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@WouterDeVriendt Hamas started this war, Israel will finish it !</data>
+  <data key="d7">False</data>
+  <data key="d0">1751053260838879242</data>
+  <data key="d8">en</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">6</data>
+  <data key="d1">1751053260838879242</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1751053260838879242</data>
+</node>
+<node id="68381">
+  <data key="d4">2024-01-26T14:36:33+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@WouterDeVriendt Wat een zever weer!Israel moet proberen om geen burger slachtoffers te maken en Hamas moet de gijzelaars vrijlaten... Over een maand spreken ze elkaar terug. Zo dat was het!</data>
+  <data key="d7">False</data>
+  <data key="d0">1750890471776276729</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">42</data>
+  <data key="d1">1750890471776276729</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750890471776276729</data>
+</node>
+<node id="68402">
+  <data key="d4">2024-01-26T13:53:06+00:00</data>
+  <data key="d5">4</data>
+  <data key="d6">@WouterDeVriendt Het hof beveelt geen staakt het vuren en zegt dat Israel alles moet doen om genocide te vermijden. Dat geldt ook voor Hamas trouwens. Dus zegt niet dat er nu al sprake is van genocide. Neemt niet weg dat oorlog altijd verschrikkelijk is.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750879538370810249</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">85</data>
+  <data key="d1">1750879538370810249</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750879538370810249</data>
+</node>
+<node id="68458">
+  <data key="d4">2024-01-26T13:58:02+00:00</data>
+  <data key="d5">5</data>
+  <data key="d6">@WouterDeVriendt Eh nee-Geen staakt het vuren (de eis van zuid afrika)- Hamas moet onmiddellijk alle gijzelaars vrijlaten. De rest doet Israel al. De bal ligt bij Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750880782040649758</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">64</data>
+  <data key="d1">1750880782040649758</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750880782040649758</data>
+</node>
+<node id="68497">
+  <data key="d4">2024-01-26T15:42:46+00:00</data>
+  <data key="d5">1</data>
+  <data key="d6">@WouterDeVriendt haha "vernietigende uitspraak"Israel moet een paar rapporten opstellen en kan gewoon verder doen en Hamas moet de gijzelaars vrij laten.</data>
+  <data key="d7">False</data>
+  <data key="d0">1750907135376920813</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">LowQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">6</data>
+  <data key="d1">1750907135376920813</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1750907135376920813</data>
+</node>
+<node id="86090">
+  <data key="d4">2024-01-30T19:17:58+00:00</data>
+  <data key="d5">5</data>
+  <data key="d6">@WouterDeVriendt @groen Die massa explosieven zijn wel door een Waals bedrijf gemaakt. voor een keer dat Walen werken is het ook al niet goed. Er staan ongetwijfeld meer mensen in Belgen achter Israel dan er aplogeten voor Hamas zijn.</data>
+  <data key="d7">False</data>
+  <data key="d0">1752410846053925256</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">AbusiveQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">2</data>
+  <data key="d13">81</data>
+  <data key="d1">1752410846053925256</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1752410846053925256</data>
+</node>
+<node id="86098">
+  <data key="d4">2024-01-31T13:54:16+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@WouterDeVriendt @groen Maar wapens in handen van Hamas is geen probleem dan?Voor mij mag FN gerust wapens leveren aan Israel!Een land mag zich verdedigen.</data>
+  <data key="d7">False</data>
+  <data key="d0">1752691773024215120</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">25</data>
+  <data key="d1">1752691773024215120</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1752691773024215120</data>
+</node>
+<node id="94910">
+  <data key="d4">2024-02-03T04:52:49+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@WouterDeVriendt Hoeveel tweets heb je al gemaakt waarin je Israel veroordeelt en in hoeveel heb je Hamas veroordeeld?</data>
+  <data key="d7">False</data>
+  <data key="d0">1753642675440394585</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">10</data>
+  <data key="d1">1753642675440394585</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1753642675440394585</data>
+</node>
+<node id="94934">
+  <data key="d4">2024-02-02T16:28:35+00:00</data>
+  <data key="d5">5</data>
+  <data key="d6">@WouterDeVriendt Israel doet zoiets niet zonder reden en zonder gedegen rapport van zijn veiligheidsdiensten. God verhoede dat er niet uit blijkt dat dit gebouw ook ten dienste stond van Hamas, want dan draagt ook iemand in België de hoed.</data>
+  <data key="d7">False</data>
+  <data key="d0">1753455380636524705</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">131</data>
+  <data key="d1">1753455380636524705</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1753455380636524705</data>
+</node>
+<node id="198868">
+  <data key="d4">2024-02-02T22:47:42+00:00</data>
+  <data key="d5">0</data>
+  <data key="d6">@WouterDeVriendt Er zaten misschien wel Hamas-vriendjes van jullie en de sossen verscholen ,jullie zijn immers onze "nuttige idioten " ik verschiet van niks meer , en Israel speelt op "zeker" , wat dacht ge wel</data>
+  <data key="d7">False</data>
+  <data key="d0">1753550790994592156</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">10</data>
+  <data key="d1">1753550790994592156</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1753550790994592156</data>
+</node>
+<node id="209964">
+  <data key="d4">2024-03-11T21:30:59+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@WouterDeVriendt @pdsutter @GeorgesGilkinet Alweer kan ik het alleen maar oneens zijn met de Vivaldidictatuur. Israel moet Gaza zuiveren van Hamas.</data>
+  <data key="d7">False</data>
+  <data key="d0">1767302223464153098</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">14</data>
+  <data key="d1">1767302223464153098</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1767302223464153098</data>
+</node>
+<node id="209978">
+  <data key="d4">2024-03-11T14:54:53+00:00</data>
+  <data key="d5">2</data>
+  <data key="d6">@WouterDeVriendt @pdsutter @GeorgesGilkinet #NotInMyName #notmyBelgium #DefundUNRWA #BringThemAllHome #HamasIsISIS #AmIsraelChai</data>
+  <data key="d7">False</data>
+  <data key="d0">1767202539135472003</data>
+  <data key="d8">qme</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">69</data>
+  <data key="d1">1767202539135472003</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1767202539135472003</data>
+</node>
+<node id="320041">
+  <data key="d4">2024-04-23T16:39:09+00:00</data>
+  <data key="d5">3</data>
+  <data key="d6">@GillesVdBurre Vous en êtes le relais ? Combien de condamnations d’Israel vs du Hamas ?? Combien de références à un supposé « genocide » vs libération des otages ?</data>
+  <data key="d7">False</data>
+  <data key="d0">1782811457400262730</data>
+  <data key="d8">fr</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">43</data>
+  <data key="d1">1782811457400262730</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1782811457400262730</data>
+</node>
+<node id="360081">
+  <data key="d4">2009-08-10T20:34:23+00:00</data>
+  <data key="d15">Chef de groupe @Ecolo @Groen au Parlement fédéral. Bruxellois depuis toujours, habitant d'Ixelles et heureux papa de 2 petites merveilles.</data>
+  <data key="d16">17953</data>
+  <data key="d17">5507</data>
+  <data key="d18">3466</data>
+  <data key="d0">64506745</data>
+  <data key="d19">False</data>
+  <data key="d20">200</data>
+  <data key="d21">Brussels - Belgium</data>
+  <data key="d22">382</data>
+  <data key="d23">Gilles Vanden Burre</data>
+  <data key="d24">5507</data>
+  <data key="d25">False</data>
+  <data key="d26">GillesVdBurre</data>
+  <data key="d27">13503</data>
+  <data key="d28">False</data>
+  <data key="d1">64506745</data>
+  <data key="d2">User</data>
+  <data key="d29">64506745</data>
+</node>
+<node id="464669">
+  <data key="d0">ONAFH</data>
+  <data key="d1">ONAFH</data>
+  <data key="d2">Party</data>
+  <data key="d3">ONAFH</data>
+</node>
+<node id="268756">
+  <data key="d4">2024-04-03T08:38:50+00:00</data>
+  <data key="d5">65</data>
+  <data key="d6">@JMDedecker Waarom laat Hamas de (nog niet vermoorde)  gijzelaars niet vrij?  #IStandWithIsrael Waarom opent Egypte zijn grens niet?  Waarom gelooft u cijfers van een islamitische terreurorganisatie?</data>
+  <data key="d7">False</data>
+  <data key="d0">1775442827561837034</data>
+  <data key="d8">nl</data>
+  <data key="d9">0</data>
+  <data key="d10">HighQuality</data>
+  <data key="d11">3</data>
+  <data key="d12">10</data>
+  <data key="d13">1490</data>
+  <data key="d1">1775442827561837034</data>
+  <data key="d2">Tweet</data>
+  <data key="d14">1775442827561837034</data>
+</node>
+<node id="340751">
+  <data key="d4">2010-07-14T13:05:51+00:00</data>
+  <data key="d15">Voorzitter Lijst Dedecker - Recht voor de raap</data>
+  <data key="d16">265</data>
+  <data key="d17">53817</data>
+  <data key="d18">1039</data>
+  <data key="d0">166555933</data>
+  <data key="d19">False</data>
+  <data key="d20">239</data>
+  <data key="d21">Middelkerke</data>
+  <data key="d22">200</data>
+  <data key="d23">Jean Marie Dedecker</data>
+  <data key="d24">53817</data>
+  <data key="d25">False</data>
+  <data key="d26">JMDedecker</data>
+  <data key="d27">2582</data>
+  <data key="d28">False</data>
+  <data key="d1">166555933</data>
+  <data key="d2">User</data>
+  <data key="d29">166555933</data>
+</node>
+<edge source="171995" target="342960">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="342960" target="464658">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="253243" target="342960">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="54897" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="353799" target="464658">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="54914" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="54941" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="54959" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55017" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55038" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55042" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55045" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55068" target="353799">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="88689" target="342906">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="342906" target="464659">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="342906" target="57087">
+  <data key="d30">POSTED</data>
+</edge>
+<edge source="210843" target="342906">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="345259" target="8010">
+  <data key="d30">POSTED</data>
+</edge>
+<edge source="345259" target="464659">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="2666" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="2666" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="342471" target="464660">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="342471" target="29761">
+  <data key="d30">POSTED</data>
+</edge>
+<edge source="39009" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="46326" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="46358" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="117435" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="121749" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="121750" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="121801" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="230664" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="230664" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="270420" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="338638" target="342471">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="37506" target="352581">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="352581" target="464661">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="37508" target="352581">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="37532" target="352581">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="218509" target="352581">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="218526" target="352581">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="21337" target="350855">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="350855" target="464662">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="21353" target="350855">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="21420" target="350855">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="75361" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="341115" target="464663">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="75369" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="114702" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="139464" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="162803" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="167420" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="189781" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="189809" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="221792" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="232911" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="237644" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="296720" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="322166" target="341115">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="1725" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="341217" target="464663">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="341217" target="45492">
+  <data key="d30">POSTED</data>
+</edge>
+<edge source="341217" target="92095">
+  <data key="d30">POSTED</data>
+</edge>
+<edge source="341217" target="300589">
+  <data key="d30">POSTED</data>
+</edge>
+<edge source="1735" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="3821" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="3837" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="3849" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="3865" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="7770" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="7905" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="7975" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="7998" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="7999" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="14862" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="143983" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="222319" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="222394" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="294928" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="303477" target="341217">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="341785" target="464663">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="43434" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="43473" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="48451" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="48460" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="70496" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="124310" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="124312" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="124315" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="124328" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="124344" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="124372" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="133386" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="133391" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="133400" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="173879" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="231744" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="265484" target="341785">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="49980" target="342998">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="342998" target="464663">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="50182" target="342998">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="153986" target="341962">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="341962" target="464664">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="236303" target="345197">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="345197" target="464665">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="61506" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="345204" target="464665">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="66580" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="66595" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="66656" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="66738" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="130807" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="130835" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="134840" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="158824" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="180811" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="185024" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="188643" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="286517" target="345204">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="48817" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="356971" target="464665">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="48849" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="48942" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="130486" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="239992" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="254599" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="254601" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="257839" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="325984" target="356971">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="200427" target="346292">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="346292" target="464667">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="21665" target="351107">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="351107" target="464667">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="72454" target="353176">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="353176" target="464667">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="636" target="341027">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="341027" target="464668">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="55141" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="342162" target="464668">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="55400" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55461" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55497" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55566" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="55586" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="272776" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="272797" target="342162">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="153453" target="345608">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="345608" target="464668">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="30932" target="346938">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="346938" target="464668">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="30935" target="346938">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23073" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="351213" target="464668">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="23316" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23349" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23476" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23585" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23592" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23953" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="23999" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68303" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68321" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68324" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68348" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68367" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68376" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68381" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68402" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68458" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="68497" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="86090" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="86098" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="94910" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="94934" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="198868" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="209964" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="209978" target="351213">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="320041" target="360081">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="360081" target="464668">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+<edge source="268756" target="340751">
+  <data key="d30">MENTIONS</data>
+</edge>
+<edge source="340751" target="464669">
+  <data key="d30">MEMBER_OF</data>
+</edge>
+</graph></graphml>
