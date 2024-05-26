@@ -1,1 +1,1 @@
-
+This is Assignment 4. The full notebook with the explanation and the corresponding code can be found under Assignment4_allparties.ipynb. Futhermore, there is also the party.csv file which is used for part 1. The file hamasisrael.json is used for part 2 of the assignment. 
